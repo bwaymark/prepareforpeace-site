@@ -55,6 +55,6 @@ I would like this site to be a practical place to gather this work. I imagine it
 
 I cannot write it alone, and I would not want to. If you have skills, stories or ideas to share, or your group already does something along these lines, please get in touch. Radio enthusiasts, youth workers, mediators, cooks, gardeners and anyone with a warm building and a kettle would all be welcome.
 
-<p class="signoff">Ben Waymark<br>Nottingham</p>
+<p class="signoff">Ben in Nottingham</p>
 
 {% include contact.html %}
