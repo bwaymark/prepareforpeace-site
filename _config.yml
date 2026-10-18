@@ -1,0 +1,13 @@
+# Site settings. Edit these values, then commit; the site rebuilds in a minute or two.
+title: Prepare for Peace
+description: Practical ways to get ready for peace, not just for war.
+contact_email: ben@prepareforpeace.org.uk
+
+# Contact form settings (see README.md, steps 5 and 6)
+turnstile_sitekey: "PASTE-TURNSTILE-SITE-KEY-HERE"
+form_endpoint: "PASTE-APPS-SCRIPT-WEB-APP-URL-HERE"
+
+markdown: kramdown
+exclude:
+  - README.md
+  - apps-script

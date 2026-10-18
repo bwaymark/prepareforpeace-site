@@ -1,0 +1,91 @@
+:root {
+  --bg: #faf8f4;
+  --text: #24221f;
+  --muted: #6b665e;
+  --accent: #2f6b5a;
+  --accent-text: #ffffff;
+  --rule: #e2ddd3;
+  --field: #ffffff;
+  --error: #a23b2a;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1b1a18;
+    --text: #ebe7df;
+    --muted: #a8a196;
+    --accent: #7fbfa9;
+    --accent-text: #10201b;
+    --rule: #34312c;
+    --field: #24221f;
+    --error: #e88a78;
+  }
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 400 1.125rem/1.65 "Source Serif 4", Georgia, serif;
+}
+.wrap { max-width: 42rem; margin: 0 auto; padding: 0 16px; }
+
+.site-header { padding: 2.5rem 0 1.5rem; border-bottom: 1px solid var(--rule); }
+.brand {
+  font: 600 1.6rem/1.2 "Inter", system-ui, sans-serif;
+  color: var(--text);
+  text-decoration: none;
+  letter-spacing: -0.01em;
+}
+.tagline { margin: .35rem 0 0; color: var(--muted); font-family: "Inter", system-ui, sans-serif; font-size: 1rem; }
+
+main { padding: 2rem 16px 3rem; }
+h1, h2, h3 { font-family: "Inter", system-ui, sans-serif; line-height: 1.25; letter-spacing: -0.01em; }
+h1 { font-size: 2rem; margin: 0 0 1rem; }
+h2 { font-size: 1.3rem; margin: 2.25rem 0 .75rem; }
+a { color: var(--accent); }
+ul { padding-left: 1.25rem; }
+li { margin-bottom: .5rem; }
+
+.notice {
+  border-left: 3px solid var(--accent);
+  padding: .5rem 0 .5rem 1rem;
+  color: var(--muted);
+  margin: 0 0 2rem;
+}
+
+.signoff { margin-top: 2rem; }
+
+/* Contact form */
+.contact { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--rule); }
+.contact label { display: block; font: 600 .95rem/1.4 "Inter", system-ui, sans-serif; margin: 1rem 0 .35rem; }
+.contact input[type=text], .contact input[type=email], .contact textarea {
+  width: 100%;
+  padding: .7rem .8rem;
+  font: inherit;
+  font-size: 1rem;
+  color: var(--text);
+  background: var(--field);
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+}
+.contact textarea { min-height: 9rem; resize: vertical; }
+.contact input:focus, .contact textarea:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.contact .hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+.contact .consent { font-size: .95rem; color: var(--muted); }
+.cf-turnstile { margin: 1.25rem 0; }
+.contact button {
+  font: 600 1rem/1 "Inter", system-ui, sans-serif;
+  padding: .85rem 1.4rem;
+  border: 0;
+  border-radius: 6px;
+  background: var(--accent);
+  color: var(--accent-text);
+  cursor: pointer;
+}
+.contact button[disabled] { opacity: .6; cursor: default; }
+.form-status { margin-top: 1rem; font-family: "Inter", system-ui, sans-serif; font-size: 1rem; }
+.form-status.error { color: var(--error); }
+
+.site-footer { border-top: 1px solid var(--rule); padding: 1.5rem 0 2.5rem; color: var(--muted); font-size: .95rem; font-family: "Inter", system-ui, sans-serif; }
