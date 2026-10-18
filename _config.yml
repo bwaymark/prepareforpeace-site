@@ -4,8 +4,8 @@ description: Practical ways to get ready for peace, not just for war.
 contact_email: ben@prepareforpeace.org.uk
 
 # Contact form settings (see README.md, steps 5 and 6)
-turnstile_sitekey: "PASTE-TURNSTILE-SITE-KEY-HERE"
-form_endpoint: "PASTE-APPS-SCRIPT-WEB-APP-URL-HERE"
+turnstile_sitekey: "0x4AAAAAAFaUtjf6qH9Nan8Q"
+form_endpoint: "https://script.google.com/macros/s/AKfycbw2cp_KG40jo-iPKISD74mR8q0Zpc05-bXv5J4Y5OPFog0YGHQ2Nt7eUy8jA118odMSsw/exec"
 
 markdown: kramdown
 exclude:
