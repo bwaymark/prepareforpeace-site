@@ -37,6 +37,9 @@ body {
   color: var(--text);
   text-decoration: none;
   letter-spacing: -0.01em;
+  display: inline-flex;
+  align-items: center;
+  gap: .6rem;
 }
 .tagline { margin: .35rem 0 0; color: var(--muted); font-family: "Inter", system-ui, sans-serif; font-size: 1rem; }
 
