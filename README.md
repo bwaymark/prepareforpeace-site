@@ -6,12 +6,16 @@ A small static site hosted free on GitHub Pages. Page text is written in Markdow
 
 | File | What it does |
 | --- | --- |
-| `index.md` | The holding page: the article. Edit this to change the text. |
+| `index.md` | The home page: the article. Edit this to change the text. |
+| `get-involved.md` | The "How can I get involved?" page, with the list of people we are looking for. |
 | `privacy.md` | The privacy notice linked from the form. |
 | `_config.yml` | Site title, email address, and the two form settings. |
-| `_layouts/default.html` | The page template (header, footer). |
+| `_layouts/default.html` | The page template: header, logo, menu and footer. |
 | `_includes/contact.html` | The contact form. |
-| `assets/style.css` | Colours and fonts. |
+| `assets/style.css` | Colours, fonts and layout. |
+| `assets/logo.svg` | The logo shown in the header. |
+| `assets/favicon.svg` | The small icon shown in browser tabs. |
+| `assets/icon-180.png`, `assets/icon-512.png` | Icons for phone home screens and link previews. |
 | `CNAME` | Tells GitHub Pages to use prepareforpeace.org.uk. |
 | `apps-script/Code.gs` | Form handler to paste into Google Apps Script. Not published. |
 
@@ -75,5 +79,21 @@ Send yourself a message through the form. Check that it appears in the sheet and
 ## Editing the site later
 
 - To change the text, open `index.md` on GitHub, click the pencil, edit, and commit. The text is Markdown: `## ` starts a heading and `- ` starts a bullet.
-- To add a page, create a new file such as `guides.md` that starts with the same three-line header used in `privacy.md`. It will appear at `/guides/`.
+- To change the list of people we are looking for, edit `get-involved.md`. Each person or role is one line starting with `- `.
+- To add a page, create a new file such as `guides.md` that starts with the same header used in `privacy.md` (the lines between the two `---` lines). Change the `title` and `permalink`. It will appear at the permalink, for example `/guides/`.
+- To add the contact form to a page, put `{% include contact.html %}` on its own line where you want the form to appear.
+- To add a page to the menu, open `_layouts/default.html` and copy one of the lines inside `<nav class="site-nav">`. Change the address in both places on that line and the link text. The two places are the link itself and the `page.url` check that underlines the current page.
 - To change colours, edit the values at the top of `assets/style.css`.
+
+## Logo and colours
+
+The logo is a circle with a gap and a single dot stepping into it. It stands for making room for others so that no one is left outside. The colours are:
+
+| Use | Colour |
+| --- | --- |
+| Main green | `#2f6b5a` |
+| Accent amber | `#c8873a` |
+| Background cream | `#faf8f4` |
+| Text | `#24221f` |
+
+Use `assets/icon-512.png` as the profile picture for any social media accounts.
