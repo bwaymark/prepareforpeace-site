@@ -97,3 +97,32 @@ The logo is a circle with a gap and a single dot stepping into it. It stands for
 | Text | `#24221f` |
 
 Use `assets/icon-512.png` as the profile picture for any social media accounts.
+
+## Previewing changes before you publish
+
+You can run the site on your own computer and check it at http://localhost:4000 before uploading anything to GitHub. `Gemfile` and `_config.dev.yml` are only used for this; the live site ignores them.
+
+### With Docker (simplest if you already have Docker)
+
+From inside the site folder, run:
+
+```
+docker run --rm -it -v "$PWD":/site -w /site -p 4000:4000 ruby:3.3 \
+  bash -c "bundle install && bundle exec jekyll serve --host 0.0.0.0 --livereload --config _config.yml,_config.dev.yml"
+```
+
+The first run takes a few minutes while it installs Jekyll. Then open http://localhost:4000. Leave it running while you edit: the page reloads by itself each time you save a file. Press Ctrl+C to stop.
+
+### Without Docker
+
+1. Install Ruby: on a Mac use `brew install ruby`; on Windows use RubyInstaller (the version with Devkit); on Linux use your package manager.
+2. In the site folder, run `bundle install` once.
+3. Run `bundle exec jekyll serve --livereload --config _config.yml,_config.dev.yml` and open http://localhost:4000.
+
+### What the preview cannot test
+
+The preview uses Cloudflare's test key, so the security check always passes, but messages will not be delivered. Test the contact form on the live site after publishing.
+
+### A tidier way to publish
+
+Instead of uploading files in the browser, clone the repository with GitHub Desktop (or `git clone`), edit and preview in that folder, then commit and push. Only the files you changed are sent, and GitHub keeps a history so you can undo a mistake.

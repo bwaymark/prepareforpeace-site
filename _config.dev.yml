@@ -1,0 +1,8 @@
+# Settings for previewing on your own computer only.
+# Run with: bundle exec jekyll serve --config _config.yml,_config.dev.yml
+url: "http://localhost:4000"
+
+# Cloudflare's test key: the security check always passes locally.
+# Messages sent from the preview will not reach you, because the Apps Script
+# checks the token with your real secret key. Test the form on the live site.
+turnstile_sitekey: "1x00000000000000000000AA"
