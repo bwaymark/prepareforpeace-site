@@ -43,6 +43,12 @@ body {
 }
 .tagline { margin: .35rem 0 0; color: var(--muted); font-family: "Inter", system-ui, sans-serif; font-size: 1rem; }
 
+.site-nav { display: flex; flex-wrap: wrap; gap: .25rem 1.5rem; margin-top: 1.25rem; font: 600 1rem/1.4 "Inter", system-ui, sans-serif; }
+.site-nav a { color: var(--muted); text-decoration: none; padding: .35rem 0; border-bottom: 2px solid transparent; }
+.site-nav a:hover { color: var(--text); }
+.site-nav a[aria-current="page"] { color: var(--text); border-bottom-color: var(--accent); }
+h3 { font-size: 1.1rem; margin: 1.75rem 0 .5rem; }
+
 main { padding: 2rem 16px 3rem; }
 h1, h2, h3 { font-family: "Inter", system-ui, sans-serif; line-height: 1.25; letter-spacing: -0.01em; }
 h1 { font-size: 2rem; margin: 0 0 1rem; }

@@ -18,6 +18,10 @@
     <div class="wrap">
       <a class="brand" href="{{ '/' | relative_url }}"><img src="{{ '/assets/logo.svg' | relative_url }}" alt="" width="44" height="44">{{ site.title }}</a>
       <p class="tagline">{{ site.description }}</p>
+      <nav class="site-nav" aria-label="Main">
+        <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
+        <a href="{{ '/get-involved/' | relative_url }}"{% if page.url == '/get-involved/' %} aria-current="page"{% endif %}>Call to Action</a>
+      </nav>
     </div>
   </header>
 
