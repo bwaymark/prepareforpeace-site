@@ -11,6 +11,17 @@
 - title: Food
   url: /food/
   summary: Growing, keeping and sharing food
+  children:
+    - title: Growing food
+      url: /food/growing/
+    - title: Preserving and storing
+      url: /food/preserving/
+    - title: Keeping animals
+      url: /food/animals/
+    - title: Hunting and pest control
+      url: /food/pest-control/
+    - title: Cooking at scale
+      url: /food/cooking-at-scale/
 - title: Radio
   url: /radio/
   summary: Keeping in touch when the networks fail

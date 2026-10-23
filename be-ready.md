@@ -16,7 +16,7 @@ The Church of Jesus Christ of Latter-day Saints (often called the Mormons) has l
 
 ## Keep a rolling store
 
-Rather than putting food away and forgetting it until it goes off, keep a rolling store. Buy a little extra of the things you already eat, use the oldest first, and replace them as you go. That way your store is always fresh, nothing is wasted, and you are never more than a few days away from being ready. There will be more on this in our [Food](/food/) section.
+Rather than putting food away and forgetting it until it goes off, keep a rolling store. Buy a little extra of the things you already eat, use the oldest first, and replace them as you go. That way your store is always fresh, nothing is wasted, and you are never more than a few days away from being ready. There will be more on this in our [Preserving and storing](/food/preserving/) guide.
 
 ## Our kit list
 

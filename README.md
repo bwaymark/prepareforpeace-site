@@ -15,6 +15,7 @@ A small static site hosted free on GitHub Pages. Page text is written in Markdow
 | `pmr446.md` | The PMR446 guide, a sub-page of Radio at `/radio/446/`. |
 | `first-aid.md` | First aid for people, a sub-page of Health at `/health/first-aid/`. |
 | `pet-first-aid.md` | First aid for pets, a sub-page of Health at `/health/pet-first-aid/`. |
+| `food-growing.md`, `food-preserving.md`, `food-animals.md`, `food-pest-control.md`, `food-cooking-at-scale.md` | The Food sub-pages, under `/food/`. |
 | `kit-list.md` | The kit list, a sub-page of Be ready at `/be-ready/kit-list/`. |
 | `books.md` | The Further reading page: recommended websites and books. Add every website we link to from other pages here too. |
 | `about.md` | The About us page. |
