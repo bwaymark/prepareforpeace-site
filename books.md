@@ -22,6 +22,7 @@ Websites and books we recommend for preparing well. We only list things that som
 - [Essex Ham](https://www.essexham.co.uk/train/). Free online Foundation licence training and mock exams.
 - [RAYNET-UK](https://www.raynet-uk.net/), the Radio Amateurs' Emergency Network. Volunteer radio amateurs who provide emergency communications for the emergency services, councils and charities.
 - [Meshtastic](https://meshtastic.org/). An open source system for sending text messages over low-power LoRa radios, with no phone network or internet. Includes guides and a list of supported devices.
+- [MeshCore](https://meshcore.co.uk/), [Reticulum](https://reticulum.network/) and [Offline Protocol](https://www.offlineprotocol.com/). Other off-grid messaging systems. Not yet tested by us.
 - [Citizens' Band (CB) radio](https://www.ofcom.org.uk/spectrum/radio-equipment/citizens-band-radio), Ofcom. The official UK rules for licence-free CB radio.
 - [PMR446 information sheet](https://www.ofcom.org.uk/__data/assets/pdf_file/0025/85156/ir_2009_analogue_and_digita1.pdf), Ofcom. The official UK rules for licence-free PMR446 radios.
 

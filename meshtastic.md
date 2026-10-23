@@ -48,6 +48,16 @@ Because messages reach many people at once and are written down, a calm, accurat
 
 Messages on the default public channel can be read by anyone with Meshtastic. Use a private channel for anything you would not say in public, and still never send passwords, door codes or details of when a house will be empty.
 
+## Other systems
+
+Meshtastic is the best known system of its kind, but it is not the only one. We know of these others, though no one involved with this site has used them yet:
+
+- [MeshCore](https://meshcore.co.uk/), another system for sending messages over LoRa radios;
+- [Reticulum](https://reticulum.network/), a networking system that can run over LoRa, packet radio, wifi and other links; and
+- [Offline Protocol](https://www.offlineprotocol.com/), which makes a messaging app called Fernweh that passes messages between nearby phones over Bluetooth and wifi. Parts of the project are linked to cryptocurrency.
+
+If you know any of these well and would like to write a guide, please [get in touch](/get-involved/).
+
 {% include peacemakers.html %}
 
 ## Useful links
