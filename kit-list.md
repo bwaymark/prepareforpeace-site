@@ -12,6 +12,7 @@ Most checklists cover water, food, a torch and a radio. Here are some other thin
 - **An Opinel knife.** Cheap, tough and easy to sharpen well. Keep it at home or in your kit. Locking knives cannot be carried in public in the UK without a good reason.
 - **A Kelly Kettle.** Boils water quickly using small twigs, pine cones, paper or almost any scraps of fuel.
 - **Emergency water filter straws.** Small, light and worth having around in case the water supply fails.
+- **A hand-operated portable bidet** (sometimes called a bum gun). A squeezable bottle with a nozzle that washes you clean with a little water. It is cleaner than toilet paper, cheap, reusable, and means you will not be caught out when the shops sell out of toilet rolls, as they did in 2020.
 - **A flint fire steel and some fire starters.** They work when wet and outlast matches and lighters.
 - **A charcoal or gas barbecue.** Useful for cooking when the power is off. Kamado-style barbecues are particularly good, because their thick walls hold heat and use very little fuel.
 - **Practice.** Learn to cook on your barbecue or stove now, so that you can make good food with as little fuel as possible when it matters.
@@ -21,6 +22,8 @@ Most checklists cover water, food, a torch and a radio. Here are some other thin
 - **Things to pass the time.** Playing cards, games, books, pens and paper make a long power cut far easier, especially with children.
 
 <p class="notice">Never use a barbecue, Kelly Kettle, camping stove or generator indoors, in a tent or in a garage, even with the door open. They give off carbon monoxide, which can kill without warning. Fit a carbon monoxide alarm at home.</p>
+
+For first aid, see [Ben's personal list of essential first aid items](/health/first-aid/#bens-personal-list-of-essential-first-aid-items) on our First aid page.
 
 See [Be ready](/be-ready/) for official advice and keeping a rolling store, and [Further reading](/further-reading/) for more websites and books.
 

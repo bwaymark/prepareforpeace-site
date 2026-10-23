@@ -10,9 +10,13 @@ In an emergency, the people nearest to you are the first help anyone gets. Knowi
 
 <p class="notice">These guides do not replace medical advice. In an emergency, call 999. For urgent advice that is not an emergency, use NHS 111 online or call 111.</p>
 
-## Health
+## First aid
 
-- **First aid.** Where to train, and what every household should know.
+- **[First aid for people](/health/first-aid/).** Why a first aid course matters, and Ben's personal list of essential first aid items.
+- **[First aid for pets](/health/pet-first-aid/).** Looking after an injured or unwell animal until you can reach a vet.
+
+## Health guides we plan to include
+
 - **A first aid kit.** What to keep at home and in a community hub.
 - **Everyday medicines.** Keeping a list of the medicines you take, and asking your pharmacist how to avoid running out.
 - **Staying well in a crisis.** Keeping warm, clean water, hygiene and preventing illness from spreading.
@@ -29,7 +33,7 @@ In an emergency, the people nearest to you are the first help anyone gets. Knowi
 
 - **A pet emergency kit.** Food, medicines, records and carriers.
 - **Planning ahead.** Who will look after your pets if you cannot, and keeping microchip details up to date.
-- **Pet first aid.** Basic care until you can reach a vet.
+- **[Pet first aid](/health/pet-first-aid/).** Basic care until you can reach a vet.
 - **Evacuating with animals.** What to do if you have to leave home.
 - **Help with costs.** Charities that offer low-cost vet care.
 

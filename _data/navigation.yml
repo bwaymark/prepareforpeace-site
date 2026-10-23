@@ -29,6 +29,11 @@
 - title: Health
   url: /health/
   summary: First aid, dental care and pets
+  children:
+    - title: First aid for people
+      url: /health/first-aid/
+    - title: First aid for pets
+      url: /health/pet-first-aid/
 - title: Community
   url: /community/
   summary: Building trust, belonging and peace

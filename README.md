@@ -13,6 +13,8 @@ A small static site hosted free on GitHub Pages. Page text is written in Markdow
 | `meshtastic.md` | The Meshtastic and LoRa guide, a sub-page of Radio at `/radio/meshtastic/`. |
 | `cb-radio.md` | The CB radio guide, a sub-page of Radio at `/radio/cb/`. |
 | `pmr446.md` | The PMR446 guide, a sub-page of Radio at `/radio/446/`. |
+| `first-aid.md` | First aid for people, a sub-page of Health at `/health/first-aid/`. |
+| `pet-first-aid.md` | First aid for pets, a sub-page of Health at `/health/pet-first-aid/`. |
 | `kit-list.md` | The kit list, a sub-page of Be ready at `/be-ready/kit-list/`. |
 | `books.md` | The Further reading page: recommended websites and books. Add every website we link to from other pages here too. |
 | `about.md` | The About us page. |
