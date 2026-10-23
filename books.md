@@ -17,6 +17,11 @@ Websites and books we recommend for preparing well. We only list things that som
 
 ### Radio
 
+- [Amateur radio](https://www.ofcom.org.uk/spectrum/radio-equipment/amateur-radio), Ofcom. The official rules for amateur radio licences, and where to apply.
+- [Getting started in amateur radio](https://rsgb.org/main/get-started-in-amateur-radio/), Radio Society of Great Britain (RSGB). Training, exams and finding a local club.
+- [Essex Ham](https://www.essexham.co.uk/train/). Free online Foundation licence training and mock exams.
+- [RAYNET-UK](https://www.raynet-uk.net/), the Radio Amateurs' Emergency Network. Volunteer radio amateurs who provide emergency communications for the emergency services, councils and charities.
+- [Citizens' Band (CB) radio](https://www.ofcom.org.uk/spectrum/radio-equipment/citizens-band-radio), Ofcom. The official UK rules for licence-free CB radio.
 - [PMR446 information sheet](https://www.ofcom.org.uk/__data/assets/pdf_file/0025/85156/ir_2009_analogue_and_digita1.pdf), Ofcom. The official UK rules for licence-free PMR446 radios.
 
 ### Health and medicine

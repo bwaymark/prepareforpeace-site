@@ -17,6 +17,10 @@
   children:
     - title: PMR446
       url: /radio/446/
+    - title: CB radio
+      url: /radio/cb/
+    - title: Amateur radio
+      url: /radio/amateur/
 - title: Word of mouth
   url: /word-of-mouth/
   summary: Keeping in touch with no power and no signal

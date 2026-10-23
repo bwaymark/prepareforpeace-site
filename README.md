@@ -9,6 +9,8 @@ A small static site hosted free on GitHub Pages. Page text is written in Markdow
 | `index.md` | The home page: the article. Edit this to change the text. |
 | `get-involved.md` | The "How can I get involved?" page, with the list of people we are looking for. |
 | `be-ready.md`, `food.md`, `radio.md`, `low-tech.md` (the Word of mouth page), `health.md`, `community.md` | The section pages. Each lists the guides we plan to write. |
+| `amateur-radio.md` | The amateur (ham) radio guide, a sub-page of Radio at `/radio/amateur/`. |
+| `cb-radio.md` | The CB radio guide, a sub-page of Radio at `/radio/cb/`. |
 | `pmr446.md` | The PMR446 guide, a sub-page of Radio at `/radio/446/`. |
 | `kit-list.md` | The kit list, a sub-page of Be ready at `/be-ready/kit-list/`. |
 | `books.md` | The Further reading page: recommended websites and books. Add every website we link to from other pages here too. |
