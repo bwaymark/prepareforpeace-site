@@ -1,0 +1,11 @@
+# Built by Jekyll on your computer; GitHub Pages builds its own copy
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Local-only files
+Gemfile.lock
+vendor/
+.bundle/
+.DS_Store

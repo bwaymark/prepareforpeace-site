@@ -9,7 +9,7 @@ title: Preparing for peace
 
 Over the past year we have heard a great deal about getting ready for war. Governments across Europe have told households to keep three days of food, water and medicine. Politicians talk about a whole-of-society approach to defence. Commentators ask whether young people would be willing to fight for their country.
 
-I want to suggest that we prepare too, and that we prepare for peace. Much of the practical kit is the same. What matters is what we prepare it for. A store of food can feed the whole street. A radio network can check on the neighbour who lives alone when the phones go down.
+We think we should prepare too, and that we should prepare for peace. Much of the practical kit is the same. What matters is what we prepare it for. A store of food can feed the whole street. A radio network can check on the neighbour who lives alone when the phones go down.
 
 ## The practical side
 
@@ -36,25 +36,23 @@ Any country that wants people ready to fight relies on them feeling they belong 
 
 ## Is this naive?
 
-Some will say this is naive while there is a war in Europe. The old Latin saying runs: if you want peace, prepare for war. I think that saying deserves an honest answer.
+Some will say this is naive while there is a war in Europe. The old Latin saying runs: if you want peace, prepare for war. We think that saying deserves an honest answer.
 
 There is evidence on both sides. Supporters of deterrence point to the Cold War, which stayed cold. They point to Ukraine, which gave up its nuclear weapons under the Budapest Memorandum in 1994 and was invaded anyway. Against that sits what historians call the security dilemma. When one country arms to defend itself, its neighbour sees a threat and arms in response, and both end up less safe. The naval race and the tangle of alliances before 1914 show where that can lead.
 
 There is a quieter cost as well. A society that keeps telling itself to get ready to fight changes what it treats as normal. It changes who gets respect, and how quickly a rival becomes an enemy. Preparing for war in order to have peace is a bit like shouting for quiet.
 
-I do not claim that we can wish every threat away. My point is narrower. At best, military preparation can buy time. Peace has to be built, through relationships, fairness and belonging, and that is slow work that someone has to start. Almost everything I have listed would also help a community through a flood, a pandemic or a long power cut, so it is worth doing whatever happens.
+We do not claim that we can wish every threat away. Our point is narrower. At best, military preparation can buy time. Peace has to be built, through relationships, fairness and belonging, and that is slow work that someone has to start. Almost everything listed above would also help a community through a flood, a pandemic or a long power cut, so it is worth doing whatever happens.
 
 ## What this site will become
 
-I would like this site to be a practical place to gather this work. I imagine it holding:
+We want this site to be a practical place to gather this work. We imagine it holding:
 
 - simple guides, such as how to set up a street contact list or a local LoRa network;
 - examples of meetings and community groups already doing this work;
 - stories of people who have shown courage without weapons; and
 - resources for working with young people.
 
-I cannot write it alone, and I would not want to. If you have skills, stories or ideas to share, or your group already does something along these lines, please get in touch. Radio enthusiasts, youth workers, mediators, cooks, gardeners and anyone with a warm building and a kettle would all be welcome.
-
-<p class="signoff">Ben in Nottingham</p>
+No one can write it alone, and we would not want to. If you have skills, stories or ideas to share, or your group already does something along these lines, please get in touch. Radio enthusiasts, youth workers, mediators, cooks, gardeners and anyone with a warm building and a kettle would all be welcome.
 
 {% include contact.html %}

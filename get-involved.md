@@ -14,7 +14,7 @@ We want to build a small team of people who know their subject well. Together we
 - Write or check a short guide on your subject, usually one or two pages.
 - Answer the odd question from other contributors.
 
-Give as much or as little time as suits you. We will credit you by name unless you would rather not be named.
+Give as much or as little time as suits you. We will credit you by name unless you would rather not be named. Everything we publish is free for others to copy and adapt under our [licence](/licence/), so your work can reach as many people as possible.
 
 ## Who we are looking for
 

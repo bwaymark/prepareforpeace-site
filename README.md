@@ -8,6 +8,14 @@ A small static site hosted free on GitHub Pages. Page text is written in Markdow
 | --- | --- |
 | `index.md` | The home page: the article. Edit this to change the text. |
 | `get-involved.md` | The "How can I get involved?" page, with the list of people we are looking for. |
+| `be-ready.md`, `food.md`, `radio.md`, `low-tech.md` (the Word of mouth page), `health.md`, `community.md` | The section pages. Each lists the guides we plan to write. |
+| `books.md` | Recommended books. |
+| `about.md` | The About us page. |
+| `licence.md` | The licence page (CC BY-SA 4.0). |
+| `disclaimer.md` | The disclaimer page. |
+| `_data/footer.yml` | The footer menu. |
+| `_data/navigation.yml` | The main menu: the order and wording of the menu items. |
+| `_includes/help-wanted.html` | The "we are looking for people" box shown at the bottom of each section page. |
 | `privacy.md` | The privacy notice linked from the form. |
 | `_config.yml` | Site title, email address, and the two form settings. |
 | `_layouts/default.html` | The page template: header, logo, menu and footer. |
@@ -80,9 +88,11 @@ Send yourself a message through the form. Check that it appears in the sheet and
 
 - To change the text, open `index.md` on GitHub, click the pencil, edit, and commit. The text is Markdown: `## ` starts a heading and `- ` starts a bullet.
 - To change the list of people we are looking for, edit `get-involved.md`. Each person or role is one line starting with `- `.
+- To add a guide to a section, replace the line `<p class="soon">Guides coming soon.</p>` with links to the guides, or turn an item in the list into a link: `- [A household plan](/be-ready/household-plan/)`.
 - To add a page, create a new file such as `guides.md` that starts with the same header used in `privacy.md` (the lines between the two `---` lines). Change the `title` and `permalink`. It will appear at the permalink, for example `/guides/`.
 - To add the contact form to a page, put `{% include contact.html %}` on its own line where you want the form to appear.
-- To add a page to the menu, open `_layouts/default.html` and copy one of the lines inside `<nav class="site-nav">`. Change the address in both places on that line and the link text. The two places are the link itself and the `page.url` check that underlines the current page.
+- To change the footer menu, edit `_data/footer.yml` in the same way.
+- To add, remove or reorder menu items, edit `_data/navigation.yml`. Each item has a `title` (the words in the menu) and a `url` (the page's permalink).
 - To change colours, edit the values at the top of `assets/style.css`.
 
 ## Logo and colours
@@ -126,3 +136,12 @@ The preview uses Cloudflare's test key, so the security check always passes, but
 ### A tidier way to publish
 
 Instead of uploading files in the browser, clone the repository with GitHub Desktop (or `git clone`), edit and preview in that folder, then commit and push. Only the files you changed are sent, and GitHub keeps a history so you can undo a mistake.
+
+## Helper scripts (Mac)
+
+Run these from Terminal in the site folder. Run `chmod +x runMe.zsh publish.zsh` once to make them runnable.
+
+- `./runMe.zsh` copies the newest download from your Downloads folder into the site (never touching `_config.yml`) and starts the preview at http://localhost:4000.
+- `./publish.zsh` checks the site builds, asks you to describe your changes, then commits them and pushes them to GitHub. It stops if `_config.yml` still contains a placeholder key.
+
+`.gitignore` stops the files Jekyll builds on your computer (such as `_site/`) from being uploaded.

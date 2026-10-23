@@ -1,0 +1,11 @@
+# The footer menu. Each item needs a title and a url.
+- title: About us
+  url: /about/
+- title: Get involved
+  url: /get-involved/
+- title: Disclaimer
+  url: /disclaimer/
+- title: Licence
+  url: /licence/
+- title: Privacy
+  url: /privacy/

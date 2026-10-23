@@ -6,7 +6,7 @@ permalink: /privacy/
 
 # Privacy notice
 
-Prepare for Peace is run by Ben Waymark, a volunteer, in Nottingham. You can contact me at [ben@prepareforpeace.org.uk](mailto:ben@prepareforpeace.org.uk).
+Prepare for Peace is run by volunteers in Nottingham. The volunteer responsible for looking after your data is Ben Waymark. You can contact us at [ben@prepareforpeace.org.uk](mailto:ben@prepareforpeace.org.uk).
 
 ## What we collect
 

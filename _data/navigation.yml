@@ -1,0 +1,27 @@
+# The main menu. Each item needs a title (shown in the menu) and a url.
+# The summary is shown in the sidebar on wide screens.
+# Change the order here to change the order in the menu.
+- title: Be ready
+  url: /be-ready/
+  summary: Preparing your home and street for emergencies
+- title: Food
+  url: /food/
+  summary: Growing, keeping and sharing food
+- title: Radio
+  url: /radio/
+  summary: Keeping in touch when the networks fail
+- title: Word of mouth
+  url: /word-of-mouth/
+  summary: Keeping in touch with no power and no signal
+- title: Health
+  url: /health/
+  summary: First aid, dental care and pets
+- title: Community
+  url: /community/
+  summary: Building trust, belonging and peace
+- title: Books
+  url: /books/
+  summary: Books we recommend
+- title: Get involved
+  url: /get-involved/
+  summary: Help us write the guides
