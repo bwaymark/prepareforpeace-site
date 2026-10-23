@@ -10,6 +10,7 @@ A small static site hosted free on GitHub Pages. Page text is written in Markdow
 | `get-involved.md` | The "How can I get involved?" page, with the list of people we are looking for. |
 | `be-ready.md`, `food.md`, `radio.md`, `low-tech.md` (the Word of mouth page), `health.md`, `community.md` | The section pages. Each lists the guides we plan to write. |
 | `amateur-radio.md` | The amateur (ham) radio guide, a sub-page of Radio at `/radio/amateur/`. |
+| `meshtastic.md` | The Meshtastic and LoRa guide, a sub-page of Radio at `/radio/meshtastic/`. |
 | `cb-radio.md` | The CB radio guide, a sub-page of Radio at `/radio/cb/`. |
 | `pmr446.md` | The PMR446 guide, a sub-page of Radio at `/radio/446/`. |
 | `kit-list.md` | The kit list, a sub-page of Be ready at `/be-ready/kit-list/`. |
@@ -19,6 +20,7 @@ A small static site hosted free on GitHub Pages. Page text is written in Markdow
 | `disclaimer.md` | The disclaimer page. |
 | `_data/footer.yml` | The footer menu. |
 | `_data/navigation.yml` | The main menu: the order and wording of the menu items. |
+| `_includes/peacemakers.html` | The "Peacemakers on every channel" box used on the communication pages. Add it to any page with `{% include peacemakers.html %}`. |
 | `_includes/help-wanted.html` | The "we are looking for people" box shown at the bottom of each section page. |
 | `privacy.md` | The privacy notice linked from the form. |
 | `_config.yml` | Site title, email address, and the two form settings. |

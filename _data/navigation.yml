@@ -19,6 +19,8 @@
       url: /radio/446/
     - title: CB radio
       url: /radio/cb/
+    - title: Meshtastic
+      url: /radio/meshtastic/
     - title: Amateur radio
       url: /radio/amateur/
 - title: Word of mouth

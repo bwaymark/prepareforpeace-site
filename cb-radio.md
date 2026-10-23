@@ -70,6 +70,8 @@ For a community group, pick a quieter channel as your own, and a second one in c
 - **Remember anyone can listen,** so never share private details.
 - **Use a "handle",** a nickname, rather than your full name, as CB users traditionally do.
 
+{% include peacemakers.html %}
+
 <p class="soon">More guides coming soon, including choosing a radio and fitting an aerial.</p>
 
 See [Further reading](/further-reading/) for more websites and books.

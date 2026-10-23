@@ -48,6 +48,8 @@ RAYNET-UK, the Radio Amateurs' Emergency Network, is a volunteer organisation of
 
 In between emergencies, RAYNET groups provide communications for marathons, cycle races, walks and other community events, which keeps their skills sharp. Joining a local RAYNET group is a good way to put a licence to use in the service of others, and many members say it is the most rewarding part of the hobby.
 
+{% include peacemakers.html %}
+
 ## Useful links
 
 - [Ofcom: amateur radio licences](https://www.ofcom.org.uk/spectrum/radio-equipment/amateur-radio) for the official rules and how to apply for your licence.

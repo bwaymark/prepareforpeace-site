@@ -192,3 +192,8 @@ a.external::after { content: "\2197"; display: inline-block; margin-left: .15em;
 @media (max-width: 600px) {
   .content th, .content td { padding: .45rem .5rem; font-size: .875rem; white-space: normal; }
 }
+
+.peacemakers { margin: 2.5rem 0; padding: 1.25rem 1.5rem; border-radius: 10px; background: color-mix(in srgb, var(--accent) 10%, var(--bg)); border: 1px solid color-mix(in srgb, var(--accent) 30%, var(--bg)); max-width: 46rem; }
+.peacemakers h2 { margin: 0 0 .5rem; font-size: 1.1rem; }
+.peacemakers p { margin: 0; }
+blockquote p + p { margin-top: .4rem; font: 400 .9rem/1.4 "Inter", system-ui, sans-serif; color: var(--muted); }

@@ -18,6 +18,8 @@ The most reliable ways of keeping in touch need no power and no equipment at all
 - **Local maps.** Marking water points, warm spaces and the homes of people who may need a check.
 - **Rumour control.** How to check a message before you pass it on.
 
+{% include peacemakers.html %}
+
 <p class="soon">Guides coming soon.</p>
 
 {% include help-wanted.html %}
