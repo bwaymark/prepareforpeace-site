@@ -15,6 +15,10 @@ Websites and books we recommend for preparing well. We only list things that som
 - [Be Ready](https://beready.campaign.gov.uk/), UK government. A simple checklist for being ready for emergencies, ways to help your community, and how to join the Priority Services Register.
 - [Emergency preparedness](https://www.churchofjesuschrist.org/study/manual/gospel-topics/emergency-preparedness?lang=eng), The Church of Jesus Christ of Latter-day Saints. Practical advice on home storage, planning and first aid from a church with a long tradition of being prepared.
 
+### Radio
+
+- [PMR446 information sheet](https://www.ofcom.org.uk/__data/assets/pdf_file/0025/85156/ir_2009_analogue_and_digita1.pdf), Ofcom. The official UK rules for licence-free PMR446 radios.
+
 ### Health and medicine
 
 - [HealthWiki](https://en.hesperian.org/hhg/HealthWiki), Hesperian Health Guides. Free online versions of the health books listed below, and many more.

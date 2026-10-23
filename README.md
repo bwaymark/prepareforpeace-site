@@ -9,6 +9,8 @@ A small static site hosted free on GitHub Pages. Page text is written in Markdow
 | `index.md` | The home page: the article. Edit this to change the text. |
 | `get-involved.md` | The "How can I get involved?" page, with the list of people we are looking for. |
 | `be-ready.md`, `food.md`, `radio.md`, `low-tech.md` (the Word of mouth page), `health.md`, `community.md` | The section pages. Each lists the guides we plan to write. |
+| `pmr446.md` | The PMR446 guide, a sub-page of Radio at `/radio/446/`. |
+| `kit-list.md` | The kit list, a sub-page of Be ready at `/be-ready/kit-list/`. |
 | `books.md` | The Further reading page: recommended websites and books. Add every website we link to from other pages here too. |
 | `about.md` | The About us page. |
 | `licence.md` | The licence page (CC BY-SA 4.0). |
@@ -91,6 +93,7 @@ Send yourself a message through the form. Check that it appears in the sheet and
 - To add a guide to a section, replace the line `<p class="soon">Guides coming soon.</p>` with links to the guides, or turn an item in the list into a link: `- [A household plan](/be-ready/household-plan/)`.
 - To add a page, create a new file such as `guides.md` that starts with the same header used in `privacy.md` (the lines between the two `---` lines). Change the `title` and `permalink`. It will appear at the permalink, for example `/guides/`.
 - To add the contact form to a page, put `{% include contact.html %}` on its own line where you want the form to appear.
+- To add a sub-page to a section, create the page with a permalink inside the section (for example `/food/growing/`), then list it under `children:` for that section in `_data/navigation.yml`, as the Kit list is under Be ready. It then appears in the menu dropdown, the sidebar and the "In this section" bar.
 - To change the footer menu, edit `_data/footer.yml` in the same way.
 - To add, remove or reorder menu items, edit `_data/navigation.yml`. Each item has a `title` (the words in the menu) and a `url` (the page's permalink).
 - To change colours, edit the values at the top of `assets/style.css`.

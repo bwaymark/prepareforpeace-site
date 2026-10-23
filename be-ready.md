@@ -18,21 +18,9 @@ The Church of Jesus Christ of Latter-day Saints (often called the Mormons) has l
 
 Rather than putting food away and forgetting it until it goes off, keep a rolling store. Buy a little extra of the things you already eat, use the oldest first, and replace them as you go. That way your store is always fresh, nothing is wasted, and you are never more than a few days away from being ready. There will be more on this in our [Food](/food/) section.
 
-## Useful things that are often missed
+## Our kit list
 
-Most checklists cover water, food, a torch and a radio. Here are some other things we have found useful.
-
-- **A plug-in adapter for an electric car.** If you have an electric car that supports it (often called vehicle-to-load), an adapter lets you run a fridge, charge phones or power a lamp from the car battery.
-- **An Opinel knife.** Cheap, tough and easy to sharpen well. Keep it at home or in your kit. Locking knives cannot be carried in public in the UK without a good reason.
-- **A Kelly Kettle.** Boils water quickly using small twigs, pine cones, paper or almost any scraps of fuel.
-- **Emergency water filter straws.** Small, light and worth having around in case the water supply fails.
-- **A flint fire steel and some fire starters.** They work when wet and outlast matches and lighters.
-- **A charcoal or gas barbecue.** Useful for cooking when the power is off. Kamado-style barbecues are particularly good, because their thick walls hold heat and use very little fuel.
-- **Practice.** Learn to cook on your barbecue or stove now, so that you can make good food with as little fuel as possible when it matters.
-- **Low-power LED torches and lanterns.** Have several, in different sizes, with spare batteries or a way to charge them.
-- **Things to pass the time.** Playing cards, games, books, pens and paper make a long power cut far easier, especially with children.
-
-<p class="notice">Never use a barbecue, Kelly Kettle, camping stove or generator indoors, in a tent or in a garage, even with the door open. They give off carbon monoxide, which can kill without warning. Fit a carbon monoxide alarm at home.</p>
+Most checklists cover water, food, a torch and a radio. Our [kit list](/be-ready/kit-list/) adds the things we have found useful that are often missed, from a Kelly Kettle to a pack of playing cards.
 
 ## Guides we plan to include
 

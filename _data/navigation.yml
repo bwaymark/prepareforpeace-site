@@ -1,15 +1,22 @@
 # The main menu. Each item needs a title (shown in the menu) and a url.
 # The summary is shown in the sidebar on wide screens.
 # Change the order here to change the order in the menu.
+# To add a sub-page, list it under 'children' of its section (see Be ready).
 - title: Be ready
   url: /be-ready/
   summary: Preparing your home and street for emergencies
+  children:
+    - title: Kit list
+      url: /be-ready/kit-list/
 - title: Food
   url: /food/
   summary: Growing, keeping and sharing food
 - title: Radio
   url: /radio/
   summary: Keeping in touch when the networks fail
+  children:
+    - title: PMR446
+      url: /radio/446/
 - title: Word of mouth
   url: /word-of-mouth/
   summary: Keeping in touch with no power and no signal

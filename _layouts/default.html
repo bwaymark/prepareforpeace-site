@@ -22,7 +22,19 @@
       </div>
       <nav class="site-nav" aria-label="Main">
         {%- for item in site.data.navigation %}
-        <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+        {%- if item.children %}
+        <div class="nav-group">
+          <a href="{{ item.url | relative_url }}"{% if page.url contains item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+          <div class="nav-dropdown">
+            <a href="{{ item.url | relative_url }}">{{ item.title }}: overview</a>
+            {%- for child in item.children %}
+            <a href="{{ child.url | relative_url }}">{{ child.title }}</a>
+            {%- endfor %}
+          </div>
+        </div>
+        {%- else %}
+        <a href="{{ item.url | relative_url }}"{% if page.url contains item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+        {%- endif %}
         {%- endfor %}
       </nav>
     </div>
@@ -30,6 +42,17 @@
 
   <div class="wrap layout">
     <main class="content">
+      {%- for item in site.data.navigation %}
+      {%- if item.children and page.url contains item.url %}
+      <nav class="section-nav" aria-label="In this section">
+        <span>In this section:</span>
+        <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>Overview</a>
+        {%- for child in item.children %}
+        <a href="{{ child.url | relative_url }}"{% if page.url == child.url %} aria-current="page"{% endif %}>{{ child.title }}</a>
+        {%- endfor %}
+      </nav>
+      {%- endif %}
+      {%- endfor %}
       {{ content }}
     </main>
 
@@ -39,7 +62,15 @@
         <ul>
           {%- for item in site.data.navigation %}
           {%- unless item.url == '/get-involved/' %}
-          <li><a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a><span>{{ item.summary }}</span></li>
+          <li><a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a><span>{{ item.summary }}</span>
+            {%- if item.children %}
+            <ul class="sidebar-children">
+              {%- for child in item.children %}
+              <li><a href="{{ child.url | relative_url }}"{% if page.url == child.url %} aria-current="page"{% endif %}>{{ child.title }}</a></li>
+              {%- endfor %}
+            </ul>
+            {%- endif %}
+          </li>
           {%- endunless %}
           {%- endfor %}
         </ul>
@@ -56,7 +87,7 @@
     <div class="wrap footer-grid">
       <nav class="footer-nav" aria-label="Footer">
         {%- for item in site.data.footer %}
-        <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+        <a href="{{ item.url | relative_url }}"{% if page.url contains item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
         {%- endfor %}
       </nav>
       <p class="footer-contact">Contact: <a href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a></p>

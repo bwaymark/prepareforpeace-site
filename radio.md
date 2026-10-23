@@ -11,7 +11,7 @@ Mobile phones and the internet depend on power and on masts that can go down. Ra
 ## Guides we plan to include
 
 - **Where to start.** Which kind of radio suits which job, and what you can use without a licence.
-- **Licence-free walkie-talkies.** Getting the most from PMR446 radios, and agreeing channels with neighbours.
+- **[Licence-free walkie-talkies](/radio/446/).** Getting the most from PMR446 radios, and agreeing channels with neighbours.
 - **CB radio.** What it is good for and its limits.
 - **LoRa and Meshtastic.** Building a low-cost text message network that works without phones or the internet.
 - **Amateur (ham) radio.** How to get licensed in the UK, what you can do at each level, and how to find a local club.
