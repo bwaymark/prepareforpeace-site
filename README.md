@@ -9,7 +9,7 @@ A small static site hosted free on GitHub Pages. Page text is written in Markdow
 | `index.md` | The home page: the article. Edit this to change the text. |
 | `get-involved.md` | The "How can I get involved?" page, with the list of people we are looking for. |
 | `be-ready.md`, `food.md`, `radio.md`, `low-tech.md` (the Word of mouth page), `health.md`, `community.md` | The section pages. Each lists the guides we plan to write. |
-| `books.md` | Recommended books. |
+| `books.md` | The Further reading page: recommended websites and books. Add every website we link to from other pages here too. |
 | `about.md` | The About us page. |
 | `licence.md` | The licence page (CC BY-SA 4.0). |
 | `disclaimer.md` | The disclaimer page. |

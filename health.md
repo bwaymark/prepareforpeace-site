@@ -35,7 +35,7 @@ In an emergency, the people nearest to you are the first help anyone gets. Knowi
 
 ## Recommended reading
 
-See our [Books](/books/) page, which includes two free handbooks on health and dental care.
+See [Further reading](/further-reading/), which includes two free handbooks on health and dental care.
 
 <p class="soon">Guides coming soon.</p>
 

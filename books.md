@@ -1,16 +1,29 @@
 ---
 layout: default
-title: Books
-permalink: /books/
+title: Further reading
+permalink: /further-reading/
 ---
 
-# Books
+# Further reading
 
-Books we recommend for preparing well. We only list books that someone involved with this site has read and found useful. If you would like to suggest one, please [get in touch](/get-involved/).
+Websites and books we recommend for preparing well. We only list things that someone involved with this site has read and found useful. If you would like to suggest one, please [get in touch](/get-involved/).
 
-## Health and medicine
+## Websites
 
-### Where There Is No Doctor: A Village Health Care Handbook
+### Being ready for emergencies
+
+- [Be Ready](https://beready.campaign.gov.uk/), UK government. A simple checklist for being ready for emergencies, ways to help your community, and how to join the Priority Services Register.
+- [Emergency preparedness](https://www.churchofjesuschrist.org/study/manual/gospel-topics/emergency-preparedness?lang=eng), The Church of Jesus Christ of Latter-day Saints. Practical advice on home storage, planning and first aid from a church with a long tradition of being prepared.
+
+### Health and medicine
+
+- [HealthWiki](https://en.hesperian.org/hhg/HealthWiki), Hesperian Health Guides. Free online versions of the health books listed below, and many more.
+
+## Books
+
+### Health and medicine
+
+#### Where There Is No Doctor: A Village Health Care Handbook
 
 By David Werner, with Carol Thuman and Jane Maxwell. Published by Hesperian Health Guides.
 
@@ -19,7 +32,7 @@ A classic, plainly written guide to looking after your own and your community's 
 - [Read it free online](https://en.hesperian.org/hhg/Where_There_Is_No_Doctor_Series) on Hesperian's HealthWiki
 - [Buy the book or PDF](https://store.hesperian.org/products/where-there-is-no-doctor) from Hesperian
 
-### Where There Is No Dentist
+#### Where There Is No Dentist
 
 By Murray Dickson. Published by Hesperian Health Guides.
 

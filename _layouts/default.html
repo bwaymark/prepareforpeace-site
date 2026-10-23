@@ -63,5 +63,19 @@
       <p class="footer-licence">Text on this site is shared under the <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="license">Creative Commons Attribution-ShareAlike 4.0</a> licence. You are free to copy and adapt it as long as you credit us and share your version in the same way. <a href="{{ '/licence/' | relative_url }}">How to use our content</a>.</p>
     </div>
   </footer>
+  <script>
+  // Open links to other websites in a new tab, and tell screen reader users.
+  document.querySelectorAll('a[href^="http"]').forEach(function (a) {
+    if (a.hostname && a.hostname !== location.hostname) {
+      a.target = '_blank';
+      a.relList.add('noopener', 'noreferrer');
+      a.classList.add('external');
+      var note = document.createElement('span');
+      note.className = 'visually-hidden';
+      note.textContent = ' (opens in a new tab)';
+      a.appendChild(note);
+    }
+  });
+  </script>
 </body>
 </html>
