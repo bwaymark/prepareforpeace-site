@@ -8,6 +8,8 @@ permalink: /community/
 
 Supplies and equipment only help if people trust each other enough to share them. This section is about the slower work of building that trust: getting to know neighbours, making sure no one is left out, giving young people something worthwhile to do, and learning to handle disagreement without it turning into hostility.
 
+<figure class="illustration"><img src="/assets/images/illustrations/everyone-welcome.svg" alt="Cartoon of five neighbours at a long table under bunting with soup and food, under a banner reading Everyone welcome." width="960" height="420"></figure>
+
 ## Guides we plan to include
 
 - **Getting started.** How to meet your neighbours and start a street or village group.

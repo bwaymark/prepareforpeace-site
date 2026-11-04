@@ -8,6 +8,8 @@ permalink: /radio/meshtastic/
 
 Meshtastic lets you send text messages to other people nearby when there is no mobile signal, no wifi and no internet. It uses small, cheap radio devices that run for days on a battery, and every device helps pass messages along. With enough devices spread across a neighbourhood, a town can build its own text message network that keeps working when everything else is down.
 
+<figure class="illustration"><img src="/assets/images/illustrations/mesh-the-street.svg" alt="Cartoon of four houses linked by small radio nodes on their roofs and a person reading a message on their phone, under a banner reading Mesh the street." width="960" height="420"></figure>
+
 ## How it works
 
 - **LoRa radio.** Each Meshtastic device has a LoRa radio. LoRa (short for "long range") sends small amounts of data over long distances using very little power. It cannot carry voice or pictures, but it is ideal for short text messages.

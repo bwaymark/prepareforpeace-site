@@ -10,6 +10,8 @@ permalink: /staying-safe/domestic-abuse/
 
 Domestic abuse often gets worse in hard times, when people are under strain, money is short and families are stuck together at home. It happened during the Covid lockdowns, and it is likely to happen in any long emergency. Being ready includes knowing where to turn, for yourself or for someone you are worried about.
 
+<figure class="illustration"><img src="/assets/images/illustrations/you-are-not-alone.svg" alt="Cartoon of two people holding hands across a table with mugs of tea and a telephone, under a banner reading You are not alone." width="960" height="420"></figure>
+
 Domestic abuse is not only physical violence. It includes threats, controlling behaviour, cutting someone off from friends and family, and controlling their money. It can happen to anyone, of any age, gender or background.
 
 <p class="notice">If you are in danger now, call 999. If you cannot speak, call 999 from a mobile and press 55 when asked. Remember that your browser may keep a record of the pages you visit. Use a private window if you are worried someone may check.</p>

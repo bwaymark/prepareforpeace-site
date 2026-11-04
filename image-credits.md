@@ -8,7 +8,7 @@ permalink: /image-credits/
 
 The pictures on this site come from [Wikimedia Commons](https://commons.wikimedia.org/) and are free to use. Some are in the public domain. The rest are shared under Creative Commons licences that let anyone reuse them as long as the photographer is credited. We have not changed them, apart from resizing and cropping. If you reuse one, credit the author named below and link to the licence.
 
-The cartoon illustrations on the front page are original drawings made for this site. Like our text, they are shared under the [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) licence, so you are welcome to use them on posters and leaflets.
+The cartoon illustrations across the site are original drawings made for this site. Like our text, they are shared under the [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) licence, so you are welcome to use them on posters and leaflets.
 
 If you took one of these photos and would like it credited differently, or removed, please [get in touch](/#contact).
 

@@ -8,6 +8,8 @@ permalink: /food/growing/
 
 Growing even a little of your own food makes a household more secure, saves money and brings neighbours together over spare seedlings and surplus courgettes. This section will cover growing food in gardens, allotments, window boxes and shared spaces, with advice suited to the UK climate.
 
+<figure class="illustration"><img src="/assets/images/illustrations/grow-your-own.svg" alt="Cartoon of two gardeners at a raised bed with a spade, cabbages and a sunflower, under a banner reading Grow your own." width="960" height="420"></figure>
+
 ## Can you help write this?
 
 We are looking for experienced gardeners, allotment holders, market gardeners and community growers who can explain what works in the UK, and who know how to save and store seed. If that could be you, please [get in touch](/get-involved/).

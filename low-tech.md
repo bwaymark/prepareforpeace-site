@@ -8,6 +8,8 @@ permalink: /word-of-mouth/
 
 The most reliable ways of keeping in touch need no power and no equipment at all. People managed for centuries with noticeboards, messengers and agreed meeting places, and these still work when everything else has failed. They also include people who do not use phones or the internet.
 
+<figure class="illustration"><img src="/assets/images/illustrations/word-of-mouth.svg" alt="Cartoon of two neighbours at a wooden noticeboard covered in notes, under a banner reading Word of mouth." width="960" height="420"></figure>
+
 ## Guides we plan to include
 
 - **Paper contact lists.** Keeping a printed list of neighbours, their needs and their skills, and keeping it private and up to date.

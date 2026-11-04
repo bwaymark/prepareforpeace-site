@@ -8,6 +8,8 @@ permalink: /health/first-aid/
 
 What to learn, and what to keep in your kit, so you can help someone until professional help arrives.
 
+<figure class="illustration"><img src="/assets/images/illustrations/know-what-to-do.svg" alt="Cartoon of a first aider fitting a sling to a friend's arm, under a banner reading Know what to do." width="960" height="420"></figure>
+
 <p class="notice">These guides do not replace medical advice. In an emergency, call 999. For urgent advice that is not an emergency, use NHS 111 online or call 111.</p>
 
 <p class="notice">This page has not yet been checked by a doctor, nurse or pharmacist. We are looking for someone qualified to review it. If that could be you, please <a href="/get-involved/">get in touch</a>.</p>

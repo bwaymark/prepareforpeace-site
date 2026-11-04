@@ -8,6 +8,8 @@ permalink: /radio/
 
 Mobile phones and the internet depend on power and on masts that can go down. Radio does not need either. A few people on each street with a simple radio can pass on news, check on neighbours and call for help when nothing else works. This section covers anything with a transmitter, from licence-free walkie-talkies to amateur radio and low-cost mesh networks.
 
+<figure class="illustration"><img src="/assets/images/illustrations/peace-on-every-channel.svg" alt="Cartoon of two neighbours at a table with a big old-fashioned radio and a radio mast, under a banner reading Peace on every channel." width="960" height="420"></figure>
+
 ## Peacemakers on every channel
 
 When the power goes off and the phones go quiet, people are frightened. Fear makes rumours spread quickly, and rumours soon look for someone to blame: a neighbour, a stranger, a group of people who seem different. History shows how fast that blame can turn into hostility, and hostility into violence. Violence between groups nearly always begins with words, long before anyone picks up a weapon.

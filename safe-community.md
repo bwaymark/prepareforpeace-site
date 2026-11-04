@@ -8,6 +8,8 @@ permalink: /staying-safe/community/
 
 The safest streets are not the ones with the most cameras. They are the ones where neighbours know each other, notice when something is wrong, and help without being asked. A community that looks out for its own is also far less likely to turn on outsiders, because people feel less alone and less afraid.
 
+<figure class="illustration"><img src="/assets/images/illustrations/look-out-for-each-other.svg" alt="Cartoon of one neighbour waving from a window and another waving from across the road, under a banner reading Look out for each other." width="960" height="420"></figure>
+
 ## Can you help write this?
 
 We are looking for Neighbourhood Watch coordinators, community organisers, police community support officers and safeguarding leads who can share what works. If that could be you, please [get in touch](/get-involved/).

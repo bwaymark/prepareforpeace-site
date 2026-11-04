@@ -8,6 +8,8 @@ permalink: /health/pet-first-aid/
 
 In an emergency, vets may be hard to reach, and pets can be hurt, frightened or made ill by things that happen to the rest of the household: a fire, a flood, cold, heat, or food and medicines left within reach. A little knowledge can help you keep an animal safe and comfortable until you can get it to a vet.
 
+<figure class="illustration"><img src="/assets/images/illustrations/pets-need-help-too.svg" alt="Cartoon of an owner reaching out to a happy dog with a bandaged paw, under a banner reading Pets need help too." width="960" height="420"></figure>
+
 ## Can you help write this page?
 
 We have not written this page yet, because we want it written or checked by someone who really knows the subject. If you are a vet, a veterinary nurse, or someone with long experience of caring for animals, please [get in touch](/get-involved/). We would love your help.

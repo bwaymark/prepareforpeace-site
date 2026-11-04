@@ -8,6 +8,8 @@ permalink: /food/pest-control/
 
 Rats and mice can ruin a food store quickly, and wild food can add to what a community grows and buys. This section will cover dealing with pests and taking wild food humanely, safely and legally.
 
+<figure class="illustration"><img src="/assets/images/illustrations/forage-with-care.svg" alt="Cartoon of a person picking blackberries next to a sealed food bin and a mouse, under a banner reading Forage with care." width="960" height="420"></figure>
+
 ## Can you help write this?
 
 We are looking for pest controllers, gamekeepers, anglers, experienced foragers and others who know the law and can explain humane, safe practice. If that could be you, please [get in touch](/get-involved/).

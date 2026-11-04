@@ -8,6 +8,8 @@ permalink: /further-reading/
 
 Websites and books we recommend for preparing well. We only list things that someone involved with this site has read and found useful. If you would like to suggest one, please [get in touch](/get-involved/).
 
+<figure class="illustration"><img src="/assets/images/illustrations/read-all-about-it.svg" alt="Cartoon of a reader with an open book between two rows of books, under a banner reading Read all about it." width="960" height="420"></figure>
+
 ## Websites
 
 ### Being ready for emergencies

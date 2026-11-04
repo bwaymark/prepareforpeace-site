@@ -8,6 +8,8 @@ permalink: /food/preserving/
 
 A good harvest or a cheap bulk buy is only useful if it keeps. This section will cover how to keep food safe and make it last, from a rolling store in your kitchen cupboard to making a harvest last through the winter.
 
+<figure class="illustration"><img src="/assets/images/illustrations/fill-the-shelves.svg" alt="Cartoon of a person behind shelves of colourful preserving jars, under a banner reading Fill the shelves." width="960" height="420"></figure>
+
 ## Can you help write this?
 
 We are looking for experienced cooks, preservers, smallholders and people trained in food safety who can explain how to store and preserve food safely at home. If that could be you, please [get in touch](/get-involved/).

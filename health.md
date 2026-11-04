@@ -8,6 +8,8 @@ permalink: /health/
 
 In an emergency, the people nearest to you are the first help anyone gets. Knowing basic first aid, keeping a sensible supply of everyday medicines and looking out for each other can make a real difference until professional help arrives.
 
+<figure class="illustration"><img src="/assets/images/illustrations/look-after-each-other.svg" alt="Cartoon of two neighbours at a table with a green first aid box, a toothbrush and a medicine bottle, under a banner reading Look after each other." width="960" height="420"></figure>
+
 <p class="notice">These guides do not replace medical advice. In an emergency, call 999. For urgent advice that is not an emergency, use NHS 111 online or call 111.</p>
 
 ## First aid

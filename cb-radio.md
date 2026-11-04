@@ -8,6 +8,8 @@ permalink: /radio/cb/
 
 Citizens' Band (CB) radio became famous in the 1970s and 1980s with lorry drivers and enthusiasts, and it is still a simple, licence-free way to talk over longer distances than a walkie-talkie. A CB radio in a house or a car can reach across a town or between villages, which makes it a useful link between street groups, community hubs and people on the move.
 
+<figure class="illustration"><img src="/assets/images/illustrations/cb-on-the-road.svg" alt="Cartoon of a driver in a van with a CB aerial talking to a neighbour with a radio, under a banner reading CB on the road." width="960" height="420"></figure>
+
 ## No licence needed
 
 Since December 2006, you do not need a licence to use CB radio in the UK, as long as your radio is approved for UK use and you stay within the rules. In practice that means:

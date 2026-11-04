@@ -8,6 +8,8 @@ permalink: /staying-safe/personal/
 
 Most of what keeps people safe when they are out and about is common sense: paying attention, planning ahead and letting someone know where you are. When trouble does start, the most useful skills are calming things down and getting away safely, not fighting. These skills can also help you protect others, such as someone being harassed on a bus.
 
+<figure class="illustration"><img src="/assets/images/illustrations/plan-ahead.svg" alt="Cartoon of two friends walking home together at night, one texting Home safe, under a banner reading Plan ahead." width="960" height="420"></figure>
+
 ## Can you help write this?
 
 We are looking for personal safety trainers, people who teach de-escalation or breakaway techniques, Alternatives to Violence Project facilitators, and youth workers. If that could be you, please [get in touch](/get-involved/).

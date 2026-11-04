@@ -8,6 +8,8 @@ permalink: /radio/amateur/
 
 Amateur radio, often called ham radio, is a hobby in which licensed people build, use and experiment with radio. With the right licence and equipment, you can talk across your town, across the country or around the world, without relying on the phone network or the internet. It goes much further than PMR446 or CB radio, but it asks more of you too: you need to pass an exam, and you will need to keep learning.
 
+<figure class="illustration"><img src="/assets/images/illustrations/calling-all-stations.svg" alt="Cartoon of a radio operator in headphones at a desk with a transceiver and morse key, under a banner reading Calling all stations." width="960" height="420"></figure>
+
 ## Why it is worth it
 
 Amateur radio is one of the best ways to learn a practical skill while being part of a community. Clubs are full of people who are happy to share what they know, and many of them have decades of experience in electronics, aerials, computing and emergency communications.

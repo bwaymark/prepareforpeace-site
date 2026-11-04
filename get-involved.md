@@ -8,6 +8,8 @@ permalink: /get-involved/
 
 We want to build a small team of people who know their subject well. Together we will find the best existing how-to guides and resources, and write new ones where nothing good exists. Every guide should be practical, written in plain English and suited to life in the UK. You do not need to be a professional. If you have done something for years and could explain it to a neighbour, we would like to hear from you.
 
+<figure class="illustration"><img src="/assets/images/illustrations/your-street-needs-you.svg" alt="Cartoon of five volunteers holding up a spade, a walkie-talkie, a ladle, a book and a first aid kit, under a banner reading Your street needs you." width="960" height="420"></figure>
+
 ## What we would ask of you
 
 - Point us to guides, books, websites or organisations you trust.

@@ -8,6 +8,8 @@ permalink: /staying-safe/home/
 
 Most burglars look for an easy target: an unlocked door, a window left open, or a house that is obviously empty. A few simple, inexpensive steps make a home much less attractive and much safer. And in a crisis, fire is often a greater danger than crime, so home safety starts with alarms as well as locks.
 
+<figure class="illustration"><img src="/assets/images/illustrations/lock-up-light-up.svg" alt="Cartoon of a person locking a sturdy front door with the porch light on, under a banner reading Lock up, light up." width="960" height="420"></figure>
+
 ## Can you help write this?
 
 We are looking for crime prevention officers, locksmiths, fire safety advisers and others who can explain home security in plain English. If that could be you, please [get in touch](/get-involved/).

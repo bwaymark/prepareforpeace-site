@@ -8,6 +8,8 @@ permalink: /food/cooking-at-scale/
 
 In a crisis, a warm meal shared with neighbours does as much for morale as it does for hunger. Cooking for dozens of people is very different from cooking at home, though. It needs planning, careful food hygiene, a sense of what things cost, and real care for the people you are feeding, whatever they can and cannot eat. This section will cover cooking safely and fairly for a crowd.
 
+<figure class="illustration"><img src="/assets/images/illustrations/cook-for-a-crowd.svg" alt="Cartoon of two cooks with a giant pot of soup, under a banner reading Cook for a crowd." width="960" height="420"></figure>
+
 ## Can you help write this?
 
 We are looking for people who cook for large numbers, such as community cafe and lunch club volunteers, school and canteen cooks, caterers, faith community kitchen teams and people trained in food hygiene. We would especially welcome people who can advise on allergies and on vegetarian, vegan, halal and kosher food. If that could be you, please [get in touch](/get-involved/).

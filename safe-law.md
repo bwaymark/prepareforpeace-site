@@ -8,6 +8,8 @@ permalink: /staying-safe/the-law/
 
 Many people misunderstand what UK law says about protecting yourself. This page gives a plain-English outline, so that no one ends up in trouble for trying to keep themselves safe.
 
+<figure class="illustration"><img src="/assets/images/illustrations/know-the-law.svg" alt="Cartoon of a reader with a book labelled The law beside a pair of scales, under a banner reading Know the law." width="960" height="420"></figure>
+
 <p class="notice">This is a general outline, not legal advice. It mainly reflects the law in England and Wales. The law in Scotland and Northern Ireland is similar in many ways but not the same. This page has not yet been checked by a lawyer or police officer. If that could be you, please <a href="/get-involved/">get in touch</a>.</p>
 
 ## You can use reasonable force

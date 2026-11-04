@@ -8,6 +8,8 @@ permalink: /staying-safe/scams/
 
 Whenever people are frightened or in need, scammers follow. After floods, during the pandemic and in every crisis since, there have been fake charities, fake officials, fake tradespeople and fake messages offering help or demanding payment. Knowing the common tricks protects you and the people you care about, especially those who may be more vulnerable.
 
+<figure class="illustration"><img src="/assets/images/illustrations/if-in-doubt-hang-up.svg" alt="Cartoon of an older person hanging up an old-fashioned telephone and saying No thank you, beside a suspicious letter, under a banner reading If in doubt, hang up." width="960" height="420"></figure>
+
 ## Can you help write this?
 
 We are looking for trading standards officers, bank fraud specialists, police and people who support scam victims. If that could be you, please [get in touch](/get-involved/).
