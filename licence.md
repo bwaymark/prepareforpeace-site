@@ -35,7 +35,7 @@ A line like this is enough:
 
 - The Prepare for Peace name and logo. Please do not use them in a way that suggests we wrote or endorse your version.
 - Books, websites and other material we link to. These belong to their own authors and have their own terms.
-- Photos or images that are marked with a different licence.
+- Photos and other images. These belong to their photographers and each has its own licence, listed on our [image credits](/image-credits/) page.
 
 ## If you contribute
 

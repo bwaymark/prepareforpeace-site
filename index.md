@@ -11,6 +11,8 @@ Over the past year we have heard a great deal about getting ready for war. Gover
 
 We think we should prepare too, and that we should prepare for peace. Much of the practical kit is the same. What matters is what we prepare it for. A store of food can feed the whole street. A radio network can check on the neighbour who lives alone when the phones go down.
 
+<figure class="illustration"><img src="/assets/images/illustrations/ready-together.svg" alt="Cartoon of two neighbours passing a pot of soup over a garden wall, under a banner reading Ready together." width="960" height="420"></figure>
+
 ## The practical side
 
 Here are some ways we can prepare for peace in practical terms.
@@ -20,6 +22,8 @@ Here are some ways we can prepare for peace in practical terms.
 - Learn to communicate when the networks fail. Low-cost LoRa radios and amateur (ham) radio both work without mobile networks or the internet. RAYNET, the Radio Amateurs' Emergency Network, already trains volunteers to support the emergency services.
 - Make our buildings useful. Many meeting houses opened as warm spaces during the energy crisis. With backup power, a phone tree and a plan, they could do much more.
 - Be ready to welcome people. The Homes for Ukraine scheme showed how many people want to help, and how much better it could have been organised.
+
+<figure class="illustration"><img src="/assets/images/illustrations/keep-in-touch.svg" alt="Cartoon of two neighbours talking on walkie-talkies across their gardens, under a banner reading Keep in touch." width="960" height="420" loading="lazy"></figure>
 
 ## The harder work
 
@@ -33,6 +37,8 @@ Any country that wants people ready to fight relies on them feeling they belong 
 - Notice dehumanising language early. Violence against a group nearly always starts with words that make its members seem less than human.
 - Tackle the causes of grievance. Fair work, affordable homes and manageable debt all reduce the anger that conflict feeds on.
 - Build links across borders. Town twinning, language learning and exchanges make it harder to turn people we know into enemies.
+
+<figure class="illustration"><img src="/assets/images/illustrations/everyone-has-a-part.svg" alt="Cartoon of three young people gardening and fixing things together, under a banner reading Everyone has a part." width="960" height="420" loading="lazy"></figure>
 
 ## Is this naive?
 
@@ -52,6 +58,8 @@ We want this site to be a practical place to gather this work. We imagine it hol
 - examples of meetings and community groups already doing this work;
 - stories of people who have shown courage without weapons; and
 - resources for working with young people.
+
+<figure class="illustration"><img src="/assets/images/illustrations/put-the-kettle-on.svg" alt="Cartoon of two people at a table with a big kettle and mugs, under a banner reading Put the kettle on." width="960" height="420" loading="lazy"></figure>
 
 No one can write it alone, and we would not want to. If you have skills, stories or ideas to share, or your group already does something along these lines, please get in touch. Radio enthusiasts, youth workers, mediators, cooks, gardeners and anyone with a warm building and a kettle would all be welcome.
 

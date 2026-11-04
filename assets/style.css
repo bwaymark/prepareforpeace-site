@@ -136,9 +136,10 @@ li { margin-bottom: .5rem; }
 /* Wider screens */
 @media (min-width: 900px) {
   .wrap { padding-left: 32px; padding-right: 32px; }
-  .site-header .wrap { display: flex; align-items: flex-end; justify-content: space-between; gap: 2.5rem; }
-  .brand-block { flex: 0 1 20rem; }
-  .site-nav { flex: 1 1 0; min-width: 0; margin-top: 0; justify-content: flex-end; gap: .25rem 1.1rem; }
+  .site-header .wrap { display: block; }
+  .brand-block { display: flex; align-items: baseline; flex-wrap: wrap; gap: .25rem 1.5rem; }
+  .tagline { margin: 0; }
+  .site-nav { margin-top: 1.25rem; gap: .25rem 1.4rem; }
   .content > p, .content > h1, .content > h2, .content > h3, .content > .notice { max-width: 46rem; }
   .inner .content ul:has(> li:nth-child(4)) { columns: 2; column-gap: 2.5rem; }
   .inner .content li { break-inside: avoid; }
@@ -197,3 +198,14 @@ a.external::after { content: "\2197"; display: inline-block; margin-left: .15em;
 .peacemakers h2 { margin: 0 0 .5rem; font-size: 1.1rem; }
 .peacemakers p { margin: 0; }
 blockquote p + p { margin-top: .4rem; font: 400 .9rem/1.4 "Inter", system-ui, sans-serif; color: var(--muted); }
+.quick-exit { background: #a23b2a; color: #fff; float: right; margin: 0 0 1rem 1rem; }
+
+/* Item lists with pictures: the picture sits on the left and the text wraps around it */
+.content ul:has(.item-img) { list-style: none; padding-left: 0; }
+.content ul:has(.item-img) > li { display: flow-root; margin-bottom: .9rem; }
+.item-img { float: left; width: 64px; height: 64px; margin: .25rem .9rem .2rem 0; object-fit: cover; border-radius: 8px; border: 1px solid var(--rule); background: var(--field); }
+.credits-table img { width: 56px; height: 56px; object-fit: cover; border-radius: 6px; display: block; }
+
+/* Front page illustrations */
+.illustration { margin: 2rem 0; max-width: 46rem; }
+.illustration img { display: block; width: 100%; height: auto; }

@@ -8,6 +8,18 @@
   children:
     - title: Kit list
       url: /be-ready/kit-list/
+    - title: Travel bag
+      url: /be-ready/travel-bag/
+    - title: Holiday let box
+      url: /be-ready/holiday-box/
+    - title: Outdoor cooking box
+      url: /be-ready/cooking-box/
+    - title: Food box
+      url: /be-ready/food-box/
+    - title: Bedding box
+      url: /be-ready/bedding-box/
+    - title: Dog box
+      url: /be-ready/dog-box/
 - title: Food
   url: /food/
   summary: Growing, keeping and sharing food
@@ -45,6 +57,22 @@
       url: /health/first-aid/
     - title: First aid for pets
       url: /health/pet-first-aid/
+- title: Staying safe
+  url: /staying-safe/
+  summary: Home, community and personal safety, without weapons
+  children:
+    - title: Home safety
+      url: /staying-safe/home/
+    - title: Community safety
+      url: /staying-safe/community/
+    - title: Personal safety
+      url: /staying-safe/personal/
+    - title: Safety and the law
+      url: /staying-safe/the-law/
+    - title: Domestic abuse
+      url: /staying-safe/domestic-abuse/
+    - title: Scams and fraud
+      url: /staying-safe/scams/
 - title: Community
   url: /community/
   summary: Building trust, belonging and peace

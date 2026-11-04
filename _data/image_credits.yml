@@ -1,0 +1,548 @@
+# Image credits. Every image on the site needs an entry here.
+# licence must be Public domain, CC0, CC BY or CC BY-SA. Fill in author and source for each.
+- image: /assets/images/items/bag-clip.jpg
+  name: Bag clip
+  author: Corn cheese
+  licence: CC0
+  licence_url: https://creativecommons.org/publicdomain/zero/1.0/
+  source: https://commons.wikimedia.org/wiki/File:Small_bag_clip.jpg
+- image: /assets/images/items/rice.jpg
+  name: Bag of rice
+  author: Ajay Suresh from New York, NY, USA
+  licence: CC BY 2.0
+  licence_url: https://creativecommons.org/licenses/by/2.0/
+  source: https://commons.wikimedia.org/wiki/File:Basmati_Rice_Bag_(49906485468).jpg
+- image: /assets/images/items/bbq-cooking.jpg
+  name: Barbecue
+  author: Hillsta
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Sausages_cooking_on_a_barbecue.jpg
+- image: /assets/images/items/bidet.jpg
+  name: Bidet sprayer
+  author: SeppVei
+  licence: Public domain
+  licence_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source: https://commons.wikimedia.org/wiki/File:Bidee_shower.jpg
+- image: /assets/images/items/board-game.jpg
+  name: Board game
+  author: Unknown
+  licence: Public domain
+  licence_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source: https://commons.wikimedia.org/wiki/File:UpWords_board_in_play.jpg
+- image: /assets/images/items/water.jpg
+  name: Bottled water
+  author: Noah Wulf
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Boy_Scouts_Wheeling_Donated_Water_Bottles.jpg
+- image: /assets/images/items/grater.jpg
+  name: Box grater
+  author: Superbass
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:K%C3%BCchenreibe_1.jpg
+- image: /assets/images/items/bucket.jpg
+  name: Bucket
+  author: Fola01
+  licence: CC0
+  licence_url: https://creativecommons.org/publicdomain/zero/1.0/
+  source: https://commons.wikimedia.org/wiki/File:Purple_plastic_bucket.jpg
+- image: /assets/images/items/dutch-oven.jpg
+  name: Camp oven
+  author: McClure's Magazine
+  licence: Public domain
+  licence_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source: https://commons.wikimedia.org/wiki/File:Dutch_Oven_-McClures_Magazine.jpg
+- image: /assets/images/items/cutlery.jpg
+  name: Camping cutlery
+  author: Prométhée
+  licence: CC BY-SA 3.0
+  licence_url: https://creativecommons.org/licenses/by-sa/3.0/
+  source: https://commons.wikimedia.org/wiki/File:Tatou-arm%C3%A9e_fran%C3%A7aise.png
+- image: /assets/images/items/camp-stove.jpg
+  name: Camping stove
+  author: Duk at English Wikipedia
+  licence: CC BY-SA 3.0
+  licence_url: https://creativecommons.org/licenses/by-sa/3.0/
+  source: https://commons.wikimedia.org/wiki/File:Portable_stove.jpg
+- image: /assets/images/items/power-cut.jpg
+  name: Candlelight
+  author: artistmac
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0/
+  source: https://commons.wikimedia.org/wiki/File:The_Blizzard_33-hour_ComEd_outage_(5413692334).jpg
+- image: /assets/images/items/ev-charging.jpg
+  name: Car charging cable
+  author: Shixart1985
+  licence: CC BY 2.0
+  licence_url: https://creativecommons.org/licenses/by/2.0/
+  source: https://commons.wikimedia.org/wiki/File:Electric_car_charging_at_a_station_during_the_day_with_the_charging_cable_connected_to_the_vehicle.jpg
+- image: /assets/images/items/chorizo.jpg
+  name: Chorizo
+  author: Jaydoo
+  licence: CC BY-SA 3.0
+  licence_url: https://creativecommons.org/licenses/by-sa/3.0/
+  source: https://commons.wikimedia.org/wiki/File:Chorizo_sausage.JPG
+- image: /assets/images/items/coconut-milk.jpg
+  name: Coconut milk
+  author: Meursault2004
+  licence: CC BY-SA 3.0
+  licence_url: https://creativecommons.org/licenses/by-sa/3.0/
+  source: https://commons.wikimedia.org/wiki/File:Coconut_milk_from_can01.JPG
+- image: /assets/images/items/kitchen-knife.jpg
+  name: Cooking knife
+  author: ProjectManhattan
+  licence: CC BY-SA 3.0
+  licence_url: https://creativecommons.org/licenses/by-sa/3.0/
+  source: https://commons.wikimedia.org/wiki/File:Chef%27s_knife.jpg
+- image: /assets/images/items/cooking-oil.jpg
+  name: Cooking oil
+  author: Adam Engelhart
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0/
+  source: https://commons.wikimedia.org/wiki/File:Peanut_oil_bottle.jpg
+- image: /assets/images/items/cool-box.jpg
+  name: Cool box
+  author: Rubbermaid Products from Huntersville, North Carolina, United States
+  licence: CC BY 2.0
+  licence_url: https://creativecommons.org/licenses/by/2.0/
+  source: https://commons.wikimedia.org/wiki/File:Rubbermaid_DuraChill_Cooler_-_Ice_Chest_(2613253830).jpg
+- image: /assets/images/items/corkscrew.jpg
+  name: Corkscrew
+  author: Alvesgaspar
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Bottle_and_corkscrew_December_2014-2a.jpg
+- image: /assets/images/items/cutting-board.jpg
+  name: Cutting board
+  author: Fructibus
+  licence: CC0
+  licence_url: https://creativecommons.org/publicdomain/zero/1.0/
+  source: https://commons.wikimedia.org/wiki/File:Wooden_cutting_board_2017.jpg
+- image: /assets/images/items/drying-rack.jpg
+  name: Dish rack
+  author: FASTILY
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Dish_rack_1_2018-03-01.jpg
+- image: /assets/images/items/dog-bed.jpg
+  name: Dog bed
+  author: D Eaketts
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Jackshund_in_dog_bed.jpg
+- image: /assets/images/items/dog-bowl.jpg
+  name: Dog bowl
+  author: James Redekop
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0/
+  source: https://commons.wikimedia.org/wiki/File:Dog_food_in_a_bowl.jpg
+- image: /assets/images/items/dog-crate.jpg
+  name: Dog crate
+  author: Chaoticfluffy
+  licence: CC BY-SA 3.0
+  licence_url: https://creativecommons.org/licenses/by-sa/3.0/
+  source: https://commons.wikimedia.org/wiki/File:Greyhound_in_dog_crate.jpg
+- image: /assets/images/items/dog-lead.jpg
+  name: Dog lead
+  author: Schizek at English Wikipedia
+  licence: Public domain
+  licence_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source: https://commons.wikimedia.org/wiki/File:PPD-Leash-PinkGreenStripes.jpg
+- image: /assets/images/items/dried-herbs.jpg
+  name: Dried herbs
+  author: KVDP at English Wikipedia
+  licence: Public domain
+  licence_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source: https://commons.wikimedia.org/wiki/File:Dried_Taragon.JPG
+- image: /assets/images/items/duvet.jpg
+  name: Duvet
+  author: Sekai3 at English Wikipedia
+  licence: Attribution only
+  licence_url: ''
+  source: https://commons.wikimedia.org/wiki/File:Summit_silk_bedding_comforter.jpg
+- image: /assets/images/items/enamel-plates.jpg
+  name: Enamel mug
+  author: knoe
+  licence: CC BY 3.0
+  licence_url: https://creativecommons.org/licenses/by/3.0/
+  source: https://commons.wikimedia.org/wiki/File:Enamel_mug.jpg
+- image: /assets/images/items/household-plan.jpg
+  name: Family at the table
+  author: Linda Bartlett (Photographer)
+  licence: Public domain
+  licence_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source: https://commons.wikimedia.org/wiki/File:Family_sitting_at_kitchen_table.jpg
+- image: /assets/images/items/fire-steel.jpg
+  name: Fire steel
+  author: KEN
+  licence: CC BY-SA 3.0
+  licence_url: https://creativecommons.org/licenses/by-sa/3.0/
+  source: https://commons.wikimedia.org/wiki/File:Tennst%C3%A5l.jpg
+- image: /assets/images/items/flip-flops.jpg
+  name: Flip-flop
+  author: Steve Johnson from Valparaiso Indiana, USA
+  licence: CC BY 2.0
+  licence_url: https://creativecommons.org/licenses/by/2.0/
+  source: https://commons.wikimedia.org/wiki/File:Green_flip_flops_on_red_background.jpg
+- image: /assets/images/items/flood.jpg
+  name: Flooded street
+  author: Chris Downer
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0/
+  source: https://commons.wikimedia.org/wiki/File:York,_outlook_from_the_flooded_bottom_of_King_Street_-_geograph.org.uk_-_2731033.jpg
+- image: /assets/images/items/bed-sheet.jpg
+  name: Folded sheet
+  author: Farmer's Trading Company
+  licence: CC BY 4.0
+  licence_url: https://creativecommons.org/licenses/by/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Sheet,_bed_(2)_(AM_1991.288-5).jpg
+- image: /assets/images/items/solid-fuel-stove.jpg
+  name: Folding stove
+  author: shiina
+  licence: Public domain
+  licence_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source: https://commons.wikimedia.org/wiki/File:Pocket-size_collapsible_cooker.jpg
+- image: /assets/images/items/fried-onions.jpg
+  name: Fried onions
+  author: City Foodsters
+  licence: CC BY 2.0
+  licence_url: https://creativecommons.org/licenses/by/2.0/
+  source: https://commons.wikimedia.org/wiki/File:Hand-Made_Crispy_Onion_Rings.jpg
+- image: /assets/images/items/frying-pan.jpg
+  name: Frying pan
+  author: FASTILY
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Frying_Pan_2_2019-03-21.jpg
+- image: /assets/images/items/garlic-granules.jpg
+  name: Garlic granules
+  author: John Phelan
+  licence: CC BY-SA 3.0
+  licence_url: https://creativecommons.org/licenses/by-sa/3.0/
+  source: https://commons.wikimedia.org/wiki/File:Garlic_Powder,_Penzeys_Spices,_Arlington_Heights_MA.jpg
+- image: /assets/images/items/glasses.jpg
+  name: Glasses
+  author: عدنان حليم
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Glasses_black.jpg
+- image: /assets/images/items/gravy.jpg
+  name: Gravy granules
+  author: Unknown
+  licence: Public domain
+  licence_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source: https://commons.wikimedia.org/wiki/File:Gravy_Granules.JPG
+- image: /assets/images/items/hand-gel.jpg
+  name: Hand gel
+  author: Fawaz.tairou
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Sanitizer_at_WLA2020_Edit-a-thon_in_Benin.jpg
+- image: /assets/images/items/walkie-talkie.jpg
+  name: Handheld radio
+  author: Варвара Каминская
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Baofeng_UV-5R_transceiver.jpg
+- image: /assets/images/items/hatchet.jpg
+  name: Hatchet
+  author: Andy Dingley
+  licence: CC BY-SA 3.0
+  licence_url: https://creativecommons.org/licenses/by-sa/3.0/
+  source: https://commons.wikimedia.org/wiki/File:Japanese_bearded_axe.jpg
+- image: /assets/images/items/instant-coffee.jpg
+  name: Instant coffee
+  author: Editor at Large
+  licence: CC BY-SA 2.5
+  licence_url: https://creativecommons.org/licenses/by-sa/2.5/
+  source: https://commons.wikimedia.org/wiki/File:Instant_coffee.jpg
+- image: /assets/images/items/hot-dogs.jpg
+  name: Jar of frankfurters
+  author: EidmannBRK
+  licence: CC BY 3.0
+  licence_url: https://creativecommons.org/licenses/by/3.0/
+  source: https://commons.wikimedia.org/wiki/File:FrankfurterOriginal.jpg
+- image: /assets/images/items/kamado.jpg
+  name: Kamado barbecue
+  author: YAKINIKU Grill
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Kamado_YAKINIKU%C2%AE_Grill.png
+- image: /assets/images/items/kelly-kettle.jpg
+  name: Kelly Kettle
+  author: Fremte
+  licence: CC BY-SA 3.0
+  licence_url: https://creativecommons.org/licenses/by-sa/3.0/
+  source: https://commons.wikimedia.org/wiki/File:Kkettle.jpg
+- image: /assets/images/items/scissors.jpg
+  name: Kitchen scissors
+  author: Evan-Amos
+  licence: Public domain
+  licence_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source: https://commons.wikimedia.org/wiki/File:Kitchen-Scissors.jpg
+- image: /assets/images/items/lantern.jpg
+  name: LED lantern
+  author: TaurusEmerald
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Enbrighten_LED_Camping_Lantern.jpg
+- image: /assets/images/items/welding-gloves.jpg
+  name: Leather gauntlets
+  author: Auckland War Memorial Museum
+  licence: CC BY 4.0
+  licence_url: https://creativecommons.org/licenses/by/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Gloves,_gauntlet_(AM_2013.20.1.9-2).jpg
+- image: /assets/images/items/matches.jpg
+  name: Match
+  author: Yann SEGALEN
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Friction_d%27une_allumette.jpg
+- image: /assets/images/items/neighbours.jpg
+  name: Neighbours talking
+  author: Godwin Borg
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Unwinding_from_daily_chores.jpg
+- image: /assets/images/items/nitrile-gloves.jpg
+  name: Nitrile glove
+  author: Tjwood
+  licence: Public domain
+  licence_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source: https://commons.wikimedia.org/wiki/File:Disposable_nitrile_glove.jpg
+- image: /assets/images/items/pen-paper.jpg
+  name: Notebook and pen
+  author: Guy Sie from Utrecht, Netherlands
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0/
+  source: https://commons.wikimedia.org/wiki/File:Moleskine_Evernote_Smart_Notebook_and_pen_(8401944314).jpg
+- image: /assets/images/items/nuts-dried-fruit.jpg
+  name: Nuts and dried fruit
+  author: HaJunkiyada
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Mixed_nuts_and_dried_fruit.jpg
+- image: /assets/images/items/porridge-oats.jpg
+  name: Oats
+  author: Yonygg
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Rolled_oats_2.jpg
+- image: /assets/images/items/opinel.jpg
+  name: Opinel knife
+  author: 'User: Fornax'
+  licence: CC BY-SA 3.0
+  licence_url: https://creativecommons.org/licenses/by-sa/3.0/
+  source: https://commons.wikimedia.org/wiki/File:Opinel_knife.jpg
+- image: /assets/images/items/peeler.jpg
+  name: Peeler
+  author: Phil Wardle
+  licence: Public domain
+  licence_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source: https://commons.wikimedia.org/wiki/File:Potato_Peeler_001.jpg
+- image: /assets/images/items/pillow.jpg
+  name: Pillows
+  author: Amin
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Pillows_on_a_hotel_bed.jpg
+- image: /assets/images/items/playing-cards.jpg
+  name: Playing cards
+  author: tookapic on Pixabay
+  licence: CC0
+  licence_url: https://creativecommons.org/publicdomain/zero/1.0/
+  source: https://commons.wikimedia.org/wiki/File:Cards_-Deck_Playing.jpg
+- image: /assets/images/items/poo-bags.jpg
+  name: Poo bags
+  author: 'Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International.(Want to use this image?)Origina'
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Portable_dog_waste_bag_dispenser,_Hillegersberg,_Rotterdam_(2022)_02.jpg
+- image: /assets/images/items/power-bank.jpg
+  name: Power bank
+  author: Santeri Viinamäki
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Portable_power_bank.jpg
+- image: /assets/images/items/community-hub.jpg
+  name: Public hall
+  author: Rodhullandemu
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Kirkdale_Community_Centre_2019-1.jpg
+- image: /assets/images/items/toiletries.jpg
+  name: Pump bottle
+  author: Mezoneni
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Green_shampoo_bottle.jpg
+- image: /assets/images/items/pyjamas.jpg
+  name: Pyjamas
+  author: Janmad
+  licence: CC BY-SA 2.5
+  licence_url: https://creativecommons.org/licenses/by-sa/2.5/
+  source: https://commons.wikimedia.org/wiki/File:Pyjamas_wiki.jpg
+- image: /assets/images/items/rehydration.jpg
+  name: Rehydration tablet
+  author: Shixart1985
+  licence: CC BY 2.0
+  licence_url: https://creativecommons.org/licenses/by/2.0/
+  source: https://commons.wikimedia.org/wiki/File:Man_holding_an_effervescent_tablet_above_the_glass_of_water.jpg
+- image: /assets/images/items/grab-bag.jpg
+  name: Rucksack
+  author: WrS.tm.pl
+  licence: CC0
+  licence_url: https://creativecommons.org/publicdomain/zero/1.0/
+  source: https://commons.wikimedia.org/wiki/File:Plecak_Hiker_50_L_HiMountain.jpg
+- image: /assets/images/items/salt-pepper.jpg
+  name: Salt and pepper
+  author: Josuiván Sierra Barrera
+  licence: CC BY 2.0
+  licence_url: https://creativecommons.org/licenses/by/2.0/
+  source: https://commons.wikimedia.org/wiki/File:Salt_and_pepper_by_Sierra.jpg
+- image: /assets/images/items/knife-sharpener.jpg
+  name: Sharpening steel
+  author: Grzegorz W. Tężycki
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Knife_sharpener_GDR_~23hcvghe.jpg
+- image: /assets/images/items/sleep-mask.jpg
+  name: Sleep mask
+  author: Hbcloud at Wikipedia
+  licence: Public domain
+  licence_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source: https://commons.wikimedia.org/wiki/File:Sleep_mask.jpg
+- image: /assets/images/items/solar-charger.jpg
+  name: Solar charger
+  author: Mark Guim
+  licence: CC BY 2.0
+  licence_url: https://creativecommons.org/licenses/by/2.0/
+  source: https://commons.wikimedia.org/wiki/File:Solar_charger_5.jpg
+- image: /assets/images/items/soy-sauce.jpg
+  name: Soy sauce
+  author: 2003 LN6
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Lee_Kum_Kee_soy_sauce.jpg
+- image: /assets/images/items/spice-jars.jpg
+  name: Spice jars
+  author: Mx. Granger
+  licence: CC0
+  licence_url: https://creativecommons.org/publicdomain/zero/1.0/
+  source: https://commons.wikimedia.org/wiki/File:Spice_jars_at_My_Sister%27s_Closet.jpg
+- image: /assets/images/items/spice-rub.jpg
+  name: Spice rub
+  author: James Brooks from Kodiak, Alaska
+  licence: CC BY 2.0
+  licence_url: https://creativecommons.org/licenses/by/2.0/
+  source: https://commons.wikimedia.org/wiki/File:Coffee_halibut_spice_rub.jpg
+- image: /assets/images/items/spices.jpg
+  name: Spices
+  author: Wilfredor
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Spices_of_Sa%C3%BAde_flea_market,_S%C3%A3o_Paulo,_Brazil.jpg
+- image: /assets/images/items/stock-cubes.jpg
+  name: Stock cubes
+  author: Rainer Z ...
+  licence: CC BY-SA 3.0
+  licence_url: https://creativecommons.org/licenses/by-sa/3.0/
+  source: https://commons.wikimedia.org/wiki/File:Br%C3%BChw%C3%BCrfel-1.jpg
+- image: /assets/images/items/sugar.jpg
+  name: Sugar
+  author: Lauri Andler (Phantom)
+  licence: CC BY-SA 3.0
+  licence_url: https://creativecommons.org/licenses/by-sa/3.0/
+  source: https://commons.wikimedia.org/wiki/File:Sugar_2xmacro.jpg
+- image: /assets/images/items/medicines.jpg
+  name: Tablets
+  author: Mx. Granger
+  licence: CC0
+  licence_url: https://creativecommons.org/publicdomain/zero/1.0/
+  source: https://commons.wikimedia.org/wiki/File:Amneal_Pharmaceuticals_ibuprofen_tablets.jpg
+- image: /assets/images/items/tea-towel.jpg
+  name: Tea towels
+  author: TeaTowel341076
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Dark_blue_tea_towel_stack.jpg
+- image: /assets/images/items/tin-foil.jpg
+  name: Tin foil
+  author: James St. John
+  licence: CC BY 2.0
+  licence_url: https://creativecommons.org/licenses/by/2.0/
+  source: https://commons.wikimedia.org/wiki/File:Aluminum_foil_1.jpg
+- image: /assets/images/items/tinned-beans.jpg
+  name: Tin of beans
+  author: Wilrooij
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Tin_can_with_k%C3%A4ferbohnen.jpg
+- image: /assets/images/items/tin-opener.jpg
+  name: Tin opener
+  author: Evan-Amos
+  licence: Public domain
+  licence_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source: https://commons.wikimedia.org/wiki/File:Kitchen-Modern-Can-Opener.jpg
+- image: /assets/images/items/chopped-tomatoes.jpg
+  name: Tinned tomatoes
+  author: Unknown
+  licence: CC0
+  licence_url: https://creativecommons.org/publicdomain/zero/1.0/
+  source: https://commons.wikimedia.org/wiki/File:Tinned_tomatoes.jpg
+- image: /assets/images/items/tomato-puree.jpg
+  name: Tomato purée
+  author: SKopp
+  licence: CC BY-SA 3.0
+  licence_url: https://creativecommons.org/licenses/by-sa/3.0/
+  source: https://commons.wikimedia.org/wiki/File:Tomato_paste_on_spoon.jpg
+- image: /assets/images/items/torch.jpg
+  name: Torch
+  author: KMJ at German Wikipedia
+  licence: CC BY-SA 3.0
+  licence_url: https://creativecommons.org/licenses/by-sa/3.0/
+  source: https://commons.wikimedia.org/wiki/File:Flashlight.jpg
+- image: /assets/images/items/towels.jpg
+  name: Towels
+  author: HanSangYoon
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:HSY-_Folded_Towels.jpg
+- image: /assets/images/items/plug.jpg
+  name: UK plug
+  author: C Ford
+  licence: Public domain
+  licence_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source: https://commons.wikimedia.org/wiki/File:BritishPlugforWikipedia.jpg
+- image: /assets/images/items/washing-up-liquid.jpg
+  name: Washing-up liquid
+  author: Onderwijsgek
+  licence: CC BY-SA 3.0
+  licence_url: https://creativecommons.org/licenses/by-sa/3.0/
+  source: https://commons.wikimedia.org/wiki/File:Afwasmiddel_Una_Aldi.JPG
+- image: /assets/images/items/water-filter.jpg
+  name: Water filter straw
+  author: Badri Seshadri from Chennai, India
+  licence: CC BY 2.0
+  licence_url: https://creativecommons.org/licenses/by/2.0/
+  source: https://commons.wikimedia.org/wiki/File:Lifestraw_-_safe_drinking_water_(2722820246).jpg
+- image: /assets/images/items/wet-wipes.jpg
+  name: Wet wipe
+  author: Syced
+  licence: CC0
+  licence_url: https://creativecommons.org/publicdomain/zero/1.0/
+  source: https://commons.wikimedia.org/wiki/File:Restaurant_in_Tokyo_gives_all_customers_a_wet_tissue_and_a_plastic_folder_to_put_their_mask_in.jpg
+- image: /assets/images/items/steel-wool.jpg
+  name: Wire wool
+  author: Johan
+  licence: CC BY-SA 3.0
+  licence_url: https://creativecommons.org/licenses/by-sa/3.0/
+  source: https://commons.wikimedia.org/wiki/File:Steel-wool.jpg
+- image: /assets/images/items/army-blanket.jpg
+  name: Wool blanket
+  author: Auckland War Memorial Museum
+  licence: CC BY 4.0
+  licence_url: https://creativecommons.org/licenses/by/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Blanket_(AM_8075-1).jpg

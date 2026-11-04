@@ -16,6 +16,11 @@ A small static site hosted free on GitHub Pages. Page text is written in Markdow
 | `first-aid.md` | First aid for people, a sub-page of Health at `/health/first-aid/`. |
 | `pet-first-aid.md` | First aid for pets, a sub-page of Health at `/health/pet-first-aid/`. |
 | `food-growing.md`, `food-preserving.md`, `food-animals.md`, `food-pest-control.md`, `food-cooking-at-scale.md` | The Food sub-pages, under `/food/`. |
+| `travel-bag.md`, `holiday-box.md`, `cooking-box.md`, `food-box.md`, `bedding-box.md`, `dog-box.md` | Be ready sub-pages: the travel bag, the holiday let box, the outdoor cooking box, the food box, the bedding box and the dog box. |
+| `staying-safe.md`, `safe-home.md`, `safe-community.md`, `safe-personal.md`, `safe-law.md`, `safe-domestic-abuse.md`, `safe-scams.md` | The Staying safe section, under `/staying-safe/`. |
+| `assets/checklists/` | Editable Word checklists for the travel bag and each box, linked from each page. If you change a list on the site, update the matching checklist too: open it in Word or LibreOffice, edit, and save it back under the same name. |
+| `assets/images/` | Pictures used on the site. Item pictures for the box pages are in `assets/images/items/`. The front page cartoons are original SVG drawings in `assets/images/illustrations/`, shared under CC BY-SA 4.0 like the text. |
+| `_data/image_credits.yml`, `image-credits.md` | The list of who took each picture and its licence, shown on the Image credits page. |
 | `kit-list.md` | The kit list, a sub-page of Be ready at `/be-ready/kit-list/`. |
 | `books.md` | The Further reading page: recommended websites and books. Add every website we link to from other pages here too. |
 | `about.md` | The About us page. |
@@ -104,6 +109,8 @@ Send yourself a message through the form. Check that it appears in the sheet and
 - To change the footer menu, edit `_data/footer.yml` in the same way.
 - To add, remove or reorder menu items, edit `_data/navigation.yml`. Each item has a `title` (the words in the menu) and a `url` (the page's permalink).
 - To change colours, edit the values at the top of `assets/style.css`.
+- To add a picture, use only images you are free to reuse: public domain, CC0, CC BY or CC BY-SA. Wikimedia Commons and Openverse are good places to look. Resize it to no more than 640 pixels wide, save it in `assets/images/`, and add an entry to `_data/image_credits.yml` with the author, licence and source page. Never copy photos from shops such as Amazon: they belong to the seller.
+- To show a picture beside an item in a box list, start the line like this: `- ![](/assets/images/items/duvet.jpg){: .item-img loading="lazy" width="64" height="64"} **A duvet each.**`
 
 ## Logo and colours
 

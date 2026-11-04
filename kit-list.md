@@ -8,20 +8,22 @@ permalink: /be-ready/kit-list/
 
 Most checklists cover water, food, a torch and a radio. Here are some other things we have found useful.
 
-- **A plug-in adapter for an electric car.** If you have an electric car that supports it (often called vehicle-to-load), an adapter lets you run a fridge, charge phones or power a lamp from the car battery.
-- **An Opinel knife.** Cheap, tough and easy to sharpen well. Keep it at home or in your kit. Locking knives cannot be carried in public in the UK without a good reason.
-- **A Kelly Kettle.** Boils water quickly using small twigs, pine cones, paper or almost any scraps of fuel.
-- **Emergency water filter straws.** Small, light and worth having around in case the water supply fails.
-- **A hand-operated portable bidet** (sometimes called a bum gun). A squeezable bottle with a nozzle that washes you clean with a little water. It is cleaner than toilet paper, cheap, reusable, and means you will not be caught out when the shops sell out of toilet rolls, as they did in 2020.
-- **A flint fire steel and some fire starters.** They work when wet and outlast matches and lighters.
-- **A charcoal or gas barbecue.** Useful for cooking when the power is off. Kamado-style barbecues are particularly good, because their thick walls hold heat and use very little fuel.
-- **Practice.** Learn to cook on your barbecue or stove now, so that you can make good food with as little fuel as possible when it matters.
-- **A wind-up or solar-charged battery pack.** Keeps phones, radios and torches going for days without mains power. Some combine a hand crank, a small solar panel, a torch and a radio in one.
-- **A pair of PMR446 walkie-talkies.** Licence-free, cheap and simple, with a range of a mile or two. Ideal for keeping in touch with family or neighbours when the phones are down. See our [PMR446 guide](/radio/446/).
-- **Low-power LED torches and lanterns.** Have several, in different sizes, with spare batteries or a way to charge them.
-- **Things to pass the time.** Playing cards, games, books, pens and paper make a long power cut far easier, especially with children.
+- ![](/assets/images/items/ev-charging.jpg){: .item-img loading="lazy" width="64" height="64"} **A plug-in adapter for an electric car.** If you have an electric car that supports it (often called vehicle-to-load), an adapter lets you run a fridge, charge phones or power a lamp from the car battery.
+- ![](/assets/images/items/opinel.jpg){: .item-img loading="lazy" width="64" height="64"} **An Opinel knife.** Cheap, tough and easy to sharpen well. Keep it at home or in your kit. Locking knives cannot be carried in public in the UK without a good reason.
+- ![](/assets/images/items/kelly-kettle.jpg){: .item-img loading="lazy" width="64" height="64"} **A Kelly Kettle.** Boils water quickly using small twigs, pine cones, paper or almost any scraps of fuel.
+- ![](/assets/images/items/water-filter.jpg){: .item-img loading="lazy" width="64" height="64"} **Emergency water filter straws.** Small, light and worth having around in case the water supply fails.
+- ![](/assets/images/items/bidet.jpg){: .item-img loading="lazy" width="64" height="64"} **A hand-operated portable bidet** (sometimes called a bum gun). A squeezable bottle with a nozzle that washes you clean with a little water. It is cleaner than toilet paper, cheap, reusable, and means you will not be caught out when the shops sell out of toilet rolls, as they did in 2020.
+- ![](/assets/images/items/fire-steel.jpg){: .item-img loading="lazy" width="64" height="64"} **A flint fire steel and some fire starters.** They work when wet and outlast matches and lighters.
+- ![](/assets/images/items/kamado.jpg){: .item-img loading="lazy" width="64" height="64"} **A charcoal or gas barbecue.** Useful for cooking when the power is off. Kamado-style barbecues are particularly good, because their thick walls hold heat and use very little fuel.
+- ![](/assets/images/items/bbq-cooking.jpg){: .item-img loading="lazy" width="64" height="64"} **Practice.** Learn to cook on your barbecue or stove now, so that you can make good food with as little fuel as possible when it matters.
+- ![](/assets/images/items/solar-charger.jpg){: .item-img loading="lazy" width="64" height="64"} **A wind-up or solar-charged battery pack.** Keeps phones, radios and torches going for days without mains power. Some combine a hand crank, a small solar panel, a torch and a radio in one.
+- ![](/assets/images/items/walkie-talkie.jpg){: .item-img loading="lazy" width="64" height="64"} **A pair of PMR446 walkie-talkies.** Licence-free, cheap and simple, with a range of a mile or two. Ideal for keeping in touch with family or neighbours when the phones are down. See our [PMR446 guide](/radio/446/).
+- ![](/assets/images/items/lantern.jpg){: .item-img loading="lazy" width="64" height="64"} **Low-power LED torches and lanterns.** Have several, in different sizes, with spare batteries or a way to charge them.
+- ![](/assets/images/items/board-game.jpg){: .item-img loading="lazy" width="64" height="64"} **Things to pass the time.** Playing cards, games, books, pens and paper make a long power cut far easier, especially with children.
 
 <p class="notice">Never use a barbecue, Kelly Kettle, camping stove or generator indoors, in a tent or in a garage, even with the door open. They give off carbon monoxide, which can kill without warning. Fit a carbon monoxide alarm at home.</p>
+
+Many of the fire and cooking items above live together in our [outdoor cooking box](/be-ready/cooking-box/).
 
 For first aid, see [Ben's personal list of essential first aid items](/health/first-aid/#bens-personal-list-of-essential-first-aid-items) on our First aid page.
 
