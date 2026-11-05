@@ -84,6 +84,18 @@
   licence: CC BY-SA 3.0
   licence_url: https://creativecommons.org/licenses/by-sa/3.0/
   source: https://commons.wikimedia.org/wiki/File:Chorizo_sausage.JPG
+- image: /assets/images/items/clip-top-jar.jpg
+  name: Clip-top jar
+  author: Michal Klajban
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Preserved_lemon_in_a_clip_top_jar,_4_years_old.jpg
+- image: /assets/images/items/salt-coarse.jpg
+  name: Coarse sea salt
+  author: ajay_suresh
+  licence: CC BY 2.0
+  licence_url: https://creativecommons.org/licenses/by/2.0/
+  source: https://commons.wikimedia.org/wiki/File:Sea_Salt_-_Macro_(51840172425).jpg
 - image: /assets/images/items/coconut-milk.jpg
   name: Coconut milk
   author: Meursault2004
@@ -294,6 +306,12 @@
   licence: CC BY 4.0
   licence_url: https://creativecommons.org/licenses/by/4.0/
   source: https://commons.wikimedia.org/wiki/File:Gloves,_gauntlet_(AM_2013.20.1.9-2).jpg
+- image: /assets/images/items/salt-bucket.jpg
+  name: Lidded bucket
+  author: My Community Sg
+  licence: CC BY 4.0
+  licence_url: https://creativecommons.org/licenses/by/4.0/
+  source: https://commons.wikimedia.org/wiki/File:HDB_branded_food_wastage_bucket.jpg
 - image: /assets/images/items/matches.jpg
   name: Match
   author: Yann SEGALEN
@@ -390,6 +408,12 @@
   licence: CC BY 2.0
   licence_url: https://creativecommons.org/licenses/by/2.0/
   source: https://commons.wikimedia.org/wiki/File:Man_holding_an_effervescent_tablet_above_the_glass_of_water.jpg
+- image: /assets/images/items/salt-rock.jpg
+  name: Rock salt
+  author: Ivar Leidus
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Bolivian_rose_salt.jpg
 - image: /assets/images/items/grab-bag.jpg
   name: Rucksack
   author: WrS.tm.pl
@@ -402,6 +426,18 @@
   licence: CC BY 2.0
   licence_url: https://creativecommons.org/licenses/by/2.0/
   source: https://commons.wikimedia.org/wiki/File:Salt_and_pepper_by_Sierra.jpg
+- image: /assets/images/items/salt-bags.jpg
+  name: Salt in cloth bags
+  author: Korea.net / Korean Culture and Information Service
+  licence: CC BY-SA 2.0
+  licence_url: https://creativecommons.org/licenses/by-sa/2.0/
+  source: https://commons.wikimedia.org/wiki/File:KOCIS_Salt_Museum_(6236388422).jpg
+- image: /assets/images/items/salt-pig.jpg
+  name: Salt pig
+  author: Auckland War Memorial Museum
+  licence: CC BY 4.0
+  licence_url: https://creativecommons.org/licenses/by/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Salt_pig_(AM_5861-4).jpg
 - image: /assets/images/items/knife-sharpener.jpg
   name: Sharpening steel
   author: Grzegorz W. Tężycki
@@ -456,6 +492,12 @@
   licence: CC BY-SA 3.0
   licence_url: https://creativecommons.org/licenses/by-sa/3.0/
   source: https://commons.wikimedia.org/wiki/File:Sugar_2xmacro.jpg
+- image: /assets/images/items/salt-table.jpg
+  name: Table salt
+  author: Poyraz 72
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Table_salt_with_salt_shaker_V1.jpg
 - image: /assets/images/items/medicines.jpg
   name: Tablets
   author: Mx. Granger

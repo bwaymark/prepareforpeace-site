@@ -209,3 +209,13 @@ blockquote p + p { margin-top: .4rem; font: 400 .9rem/1.4 "Inter", system-ui, sa
 /* Front page illustrations */
 .illustration { margin: 2rem 0; max-width: 46rem; }
 .illustration img { display: block; width: 100%; height: auto; }
+
+/* Rows of captioned photos */
+.photo-row { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 1rem; margin: 1.25rem 0 1.5rem; max-width: 46rem; }
+.photo-row figure { margin: 0; }
+.photo-row img { display: block; width: 100%; aspect-ratio: 4 / 3; height: auto; object-fit: cover; border-radius: 8px; border: 1px solid var(--rule); }
+.photo-row figcaption { font: 400 .875rem/1.35 "Inter", system-ui, sans-serif; color: var(--muted); margin-top: .35rem; }
+
+/* Verse quotations */
+blockquote.verse { font-style: italic; }
+blockquote.verse p + p { font-style: normal; }
