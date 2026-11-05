@@ -6,6 +6,8 @@ permalink: /community/
 
 # Building a community that holds together
 
+<figure class="illustration"><img src="/assets/images/illustrations/everyone-welcome.svg" alt="Cartoon of five neighbours at a long table under bunting with soup and food, under a banner reading Everyone welcome." width="960" height="420"></figure>
+
 <blockquote class="verse">
 <p>Hail, ye Givers! a guest is come;<br>
 say! where shall he sit within?<br>
@@ -25,8 +27,6 @@ Exchange builds a community, and plain dealing keeps it together. That means spe
 For preparing, it means thinking about what you keep. As well as things for your own household, keep things you can offer to others, such as extra salt, preserves, seeds or dried herbs. Keep things that are best shared and used together, too, such as radios, tools or a big cooking pot. These give people a part to play, and having a part to play is what makes someone belong.
 
 Supplies and equipment only help if people trust each other enough to share them. This section is about the slower work of building that trust: getting to know neighbours, making sure no one is left out, giving young people something worthwhile to do, and learning to handle disagreement without it turning into hostility.
-
-<figure class="illustration"><img src="/assets/images/illustrations/everyone-welcome.svg" alt="Cartoon of five neighbours at a long table under bunting with soup and food, under a banner reading Everyone welcome." width="960" height="420" loading="lazy"></figure>
 
 ## Guides we plan to include
 
