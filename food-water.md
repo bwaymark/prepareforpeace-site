@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Storing water for emergencies
-permalink: /be-ready/water/
+permalink: /food/water/
 ---
 
 # Storing water for emergencies

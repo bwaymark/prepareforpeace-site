@@ -10,6 +10,8 @@ Food is at the heart of being ready for hard times. When shops run short, the ho
 
 <figure class="illustration"><img src="/assets/images/illustrations/share-the-harvest.svg" alt="Cartoon of two neighbours behind a stall with baskets of vegetables, under a banner reading Share the harvest." width="960" height="420"></figure>
 
+It starts with [water](/food/water/): how much to store for your household and your pets, how to keep it safe, and why it is worth keeping extra to share.
+
 This section covers food from seed to table: [growing food](/food/growing/) in the UK climate, [preserving and storing](/food/preserving/) it so nothing goes to waste, [keeping animals](/food/animals/) such as hens and bees, [hunting and pest control](/food/pest-control/) done humanely and legally, and [cooking at scale](/food/cooking-at-scale/) for a whole community, with care for allergies and dietary needs. None of these skills can be learned overnight, so the best time to start getting to know them is now, while the shops are full and mistakes are cheap.
 
 {% include help-wanted.html %}

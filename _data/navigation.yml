@@ -8,8 +8,6 @@
   children:
     - title: Kit list
       url: /be-ready/kit-list/
-    - title: Water
-      url: /be-ready/water/
     - title: Travel bag
       url: /be-ready/travel-bag/
     - title: Holiday let box
@@ -26,6 +24,8 @@
   url: /food/
   summary: Growing, keeping and sharing food
   children:
+    - title: Water
+      url: /food/water/
     - title: Growing food
       url: /food/growing/
     - title: Preserving and storing

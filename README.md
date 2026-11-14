@@ -15,13 +15,13 @@ A small static site hosted free on GitHub Pages. Page text is written in Markdow
 | `pmr446.md` | The PMR446 guide, a sub-page of Radio at `/radio/446/`. |
 | `first-aid.md` | First aid for people, a sub-page of Health at `/health/first-aid/`. |
 | `pet-first-aid.md` | First aid for pets, a sub-page of Health at `/health/pet-first-aid/`. |
+| `food-water.md` | Storing water for emergencies, a sub-page of Food at `/food/water/`. |
 | `food-growing.md`, `food-preserving.md`, `food-animals.md`, `food-pest-control.md`, `food-cooking-at-scale.md` | The Food sub-pages, under `/food/`. |
 | `travel-bag.md`, `holiday-box.md`, `cooking-box.md`, `food-box.md`, `bedding-box.md`, `dog-box.md` | Be ready sub-pages: the travel bag, the holiday let box, the outdoor cooking box, the food box, the bedding box and the dog box. |
 | `staying-safe.md`, `safe-home.md`, `safe-community.md`, `safe-personal.md`, `safe-law.md`, `safe-domestic-abuse.md`, `safe-scams.md` | The Staying safe section, under `/staying-safe/`. |
 | `assets/checklists/` | Editable Word checklists for the travel bag and each box, linked from each page. If you change a list on the site, update the matching checklist too: open it in Word or LibreOffice, edit, and save it back under the same name. |
 | `assets/images/` | Pictures used on the site. Item pictures for the box pages are in `assets/images/items/`. The cartoons at the top of the pages are original SVG drawings in `assets/images/illustrations/`, shared under CC BY-SA 4.0 like the text. |
 | `_data/image_credits.yml`, `image-credits.md` | The list of who took each picture and its licence, shown on the Image credits page. |
-| `water.md` | Storing water for emergencies, a sub-page of Be ready at `/be-ready/water/`. |
 | `kit-list.md` | The kit list, a sub-page of Be ready at `/be-ready/kit-list/`. |
 | `books.md` | The Further reading page: recommended websites and books. Add every website we link to from other pages here too. |
 | `about.md` | The About us page. |

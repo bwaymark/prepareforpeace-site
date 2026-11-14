@@ -26,7 +26,7 @@ Most checklists cover water, food, a torch and a radio. Our [kit list](/be-ready
 
 - ![](/assets/images/items/household-plan.jpg){: .item-img loading="lazy" width="64" height="64"} **A household plan.** What to talk about at home, where to meet if you are separated, and who to call.
 - ![](/assets/images/items/grab-bag.jpg){: .item-img loading="lazy" width="64" height="64"} **A grab bag and a home store.** What to keep for a few days without power or water.
-- ![](/assets/images/items/water.jpg){: .item-img loading="lazy" width="64" height="64"} **[Water](/be-ready/water/).** How much to store, how to keep it safe, and how to make water safe to drink.
+- ![](/assets/images/items/water.jpg){: .item-img loading="lazy" width="64" height="64"} **[Water](/food/water/).** How much to store, how to keep it safe, and how to make water safe to drink.
 - ![](/assets/images/items/power-cut.jpg){: .item-img loading="lazy" width="64" height="64"} **Power cuts.** Lighting, keeping warm safely, keeping phones charged, and avoiding carbon monoxide poisoning.
 - ![](/assets/images/items/camp-stove.jpg){: .item-img loading="lazy" width="64" height="64"} **Cooking without power.** Barbecues, stoves and fuel-efficient cooking.
 - ![](/assets/images/items/flood.jpg){: .item-img loading="lazy" width="64" height="64"} **Floods, storms and heatwaves.** What to do before, during and after.
