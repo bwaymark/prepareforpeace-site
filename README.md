@@ -21,6 +21,7 @@ A small static site hosted free on GitHub Pages. Page text is written in Markdow
 | `assets/checklists/` | Editable Word checklists for the travel bag and each box, linked from each page. If you change a list on the site, update the matching checklist too: open it in Word or LibreOffice, edit, and save it back under the same name. |
 | `assets/images/` | Pictures used on the site. Item pictures for the box pages are in `assets/images/items/`. The cartoons at the top of the pages are original SVG drawings in `assets/images/illustrations/`, shared under CC BY-SA 4.0 like the text. |
 | `_data/image_credits.yml`, `image-credits.md` | The list of who took each picture and its licence, shown on the Image credits page. |
+| `water.md` | Storing water for emergencies, a sub-page of Be ready at `/be-ready/water/`. |
 | `kit-list.md` | The kit list, a sub-page of Be ready at `/be-ready/kit-list/`. |
 | `books.md` | The Further reading page: recommended websites and books. Add every website we link to from other pages here too. |
 | `about.md` | The About us page. |

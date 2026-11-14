@@ -30,6 +30,12 @@
   licence: Public domain
   licence_url: https://creativecommons.org/publicdomain/mark/1.0/
   source: https://commons.wikimedia.org/wiki/File:UpWords_board_in_play.jpg
+- image: /assets/images/items/boiling-water.jpg
+  name: Boiling water
+  author: SMART Servier Medical Art
+  licence: CC BY-SA 3.0
+  licence_url: https://creativecommons.org/licenses/by-sa/3.0/
+  source: https://commons.wikimedia.org/wiki/File:Boiling_water_in_a_pan.png
 - image: /assets/images/items/water.jpg
   name: Bottled water
   author: Noah Wulf
@@ -366,6 +372,12 @@
   licence: CC BY-SA 4.0
   licence_url: https://creativecommons.org/licenses/by-sa/4.0/
   source: https://commons.wikimedia.org/wiki/File:Pillows_on_a_hotel_bed.jpg
+- image: /assets/images/items/water-jerrycan.jpg
+  name: Plastic jerrycan
+  author: Cynthia Doresi
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:A_banana_sprout_used_as_a_lid_for_a_jerry_can_among_the_Luhya_tribe_of_Kenya.jpg
 - image: /assets/images/items/playing-cards.jpg
   name: Playing cards
   author: tookapic on Pixabay
@@ -480,6 +492,12 @@
   licence: CC BY-SA 4.0
   licence_url: https://creativecommons.org/licenses/by-sa/4.0/
   source: https://commons.wikimedia.org/wiki/File:Spices_of_Sa%C3%BAde_flea_market,_S%C3%A3o_Paulo,_Brazil.jpg
+- image: /assets/images/items/water-boxes.jpg
+  name: Stackable water containers
+  author: W.carter
+  licence: CC0
+  licence_url: https://creativecommons.org/publicdomain/zero/1.0/
+  source: https://commons.wikimedia.org/wiki/File:Blue_plastic_water_tank_1.jpg
 - image: /assets/images/items/stock-cubes.jpg
   name: Stock cubes
   author: Rainer Z ...
@@ -564,6 +582,12 @@
   licence: CC BY-SA 3.0
   licence_url: https://creativecommons.org/licenses/by-sa/3.0/
   source: https://commons.wikimedia.org/wiki/File:Afwasmiddel_Una_Aldi.JPG
+- image: /assets/images/items/water-butt.jpg
+  name: Water butt
+  author: Cornellrockey
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Red_rain_barrel.jpg
 - image: /assets/images/items/water-filter.jpg
   name: Water filter straw
   author: Badri Seshadri from Chennai, India
